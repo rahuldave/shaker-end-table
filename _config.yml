@@ -1,0 +1,21 @@
+title: Simple Shaker End Table
+description: An illustrated project guide and plain-language woodworking glossary for a Shaker end table class project.
+url: https://rahuldave.github.io
+baseurl: /shaker-end-table
+theme: minima
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+header_pages:
+  - PROJECT_BASE.md
+  - LUMBER_AND_WOODWORKING_TERMINOLOGY.md
+
+exclude:
+  - AGENTS.md
+  - source
+  - images/pages

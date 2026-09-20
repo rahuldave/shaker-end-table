@@ -1,0 +1,5 @@
+.DS_Store
+
+# Local archival material is intentionally not redistributed publicly.
+source/*.pdf
+images/pages/
