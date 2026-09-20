@@ -176,4 +176,4 @@ The local PDF page number is different from the printed magazine page number.
 | 15-16 | 30-31 | Brushing lacquer |
 | 17-18 | 32 and extras | Unrelated article and magazine material |
 
-Full-resolution renders of the six main article pages are stored in [`images/pages/`](images/pages/). All images in this project base were extracted from the source PDF and remain credited to the original publication and photographers.
+Full-resolution renders of the six main article pages are stored in the local working copy at `images/pages/` and are excluded from the public repository. All published images in this project base were extracted from the source PDF and remain credited to the original publication and photographers.
