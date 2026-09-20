@@ -4,7 +4,7 @@ An illustrated, beginner-friendly reference for building Christopher Schwarz's *
 
 ## Browse the project
 
-- [Open the illustrated website](https://rahuldave.github.io/shaker-end-table/)
+- [Open the illustrated website](https://rahuldave.com/shaker-end-table/)
 - [Read the project base](PROJECT_BASE.md)
 - [Learn the lumber and woodworking terminology](LUMBER_AND_WOODWORKING_TERMINOLOGY.md)
 - [View the original Popular Woodworking PDF](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf)
