@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="title description">
+  <title id="title">Basic woodworking joints and recesses</title>
+  <desc id="description">Labeled drawings compare a mortise and tenon, dovetail tail and socket, rabbet, groove, dado, notch, and edge joint.</desc>
+  <defs>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; fill: #2d241d; }
+      .title { font-size: 38px; font-weight: 700; }
+      .head { font-size: 25px; font-weight: 700; }
+      .label { font-size: 19px; fill: #6c5a4c; }
+      .wood { fill: #c18b5f; stroke: #70492d; stroke-width: 4; }
+      .cut { fill: #f5f0e7; stroke: #70492d; stroke-width: 3; }
+      .grain { stroke: #9a6541; stroke-width: 3; fill: none; }
+    </style>
+  </defs>
+  <rect width="1200" height="820" rx="28" fill="#f5f0e7"/>
+  <text x="600" y="55" text-anchor="middle" class="title">Joints and recesses: what shape is actually cut?</text>
+  <g transform="translate(55 90)">
+    <text x="160" y="30" text-anchor="middle" class="head">Mortise + tenon</text>
+    <rect x="0" y="80" width="130" height="190" class="wood"/>
+    <rect x="43" y="128" width="44" height="94" class="cut"/>
+    <text x="65" y="300" text-anchor="middle" class="label">mortise = hole</text>
+    <path d="M185 115 H300 V235 H185 V205 H135 V145 H185 Z" class="wood"/>
+    <text x="230" y="300" text-anchor="middle" class="label">tenon = tongue</text>
+  </g>
+  <g transform="translate(430 90)">
+    <text x="150" y="30" text-anchor="middle" class="head">Dovetail</text>
+    <path d="M15 110 H105 L135 230 H-15 Z" class="wood"/>
+    <text x="60" y="270" text-anchor="middle" class="label">tail = flared piece</text>
+    <rect x="180" y="90" width="145" height="170" class="wood"/>
+    <path d="M215 90 L245 210 L275 90 Z" class="cut"/>
+    <text x="252" y="290" text-anchor="middle" class="label">socket = matching recess</text>
+  </g>
+  <g transform="translate(810 90)">
+    <text x="160" y="30" text-anchor="middle" class="head">Edge joint</text>
+    <rect x="0" y="100" width="150" height="130" class="wood"/>
+    <rect x="150" y="100" width="150" height="130" fill="#d39b6b" stroke="#70492d" stroke-width="4"/>
+    <line x1="150" y1="100" x2="150" y2="230" stroke="#256b45" stroke-width="7"/>
+    <text x="150" y="270" text-anchor="middle" class="label">long edges glued together</text>
+  </g>
+  <line x1="60" y1="430" x2="1140" y2="430" stroke="#d8c9b8" stroke-width="3"/>
+  <g transform="translate(65 475)">
+    <text x="120" y="25" text-anchor="middle" class="head">Rabbet</text>
+    <path d="M0 70 H240 V210 H0 Z M175 70 V125 H240" fill-rule="evenodd" class="wood"/>
+    <rect x="175" y="70" width="65" height="55" class="cut"/>
+    <text x="120" y="250" text-anchor="middle" class="label">L-shaped cut at an edge</text>
+  </g>
+  <g transform="translate(345 475)">
+    <text x="120" y="25" text-anchor="middle" class="head">Groove</text>
+    <rect x="0" y="70" width="240" height="140" class="wood"/>
+    <rect x="90" y="70" width="60" height="55" class="cut"/>
+    <line x1="20" y1="160" x2="220" y2="160" class="grain"/>
+    <text x="120" y="250" text-anchor="middle" class="label">channel running with grain</text>
+  </g>
+  <g transform="translate(625 475)">
+    <text x="120" y="25" text-anchor="middle" class="head">Dado</text>
+    <rect x="0" y="70" width="240" height="140" class="wood"/>
+    <rect x="90" y="70" width="60" height="55" class="cut"/>
+    <path d="M25 95 C70 135 155 90 215 130 M25 165 C90 125 150 190 215 155" class="grain"/>
+    <text x="120" y="250" text-anchor="middle" class="label">channel crossing grain</text>
+  </g>
+  <g transform="translate(905 475)">
+    <text x="120" y="25" text-anchor="middle" class="head">Notch</text>
+    <rect x="0" y="70" width="240" height="140" class="wood"/>
+    <rect x="175" y="70" width="65" height="65" class="cut"/>
+    <text x="120" y="250" text-anchor="middle" class="label">section removed at edge/corner</text>
+  </g>
+  <text x="600" y="785" text-anchor="middle" class="label">The same numbers mean different directions by feature: a rabbet needs width and depth; a tenon needs thickness, width, and length.</text>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title description">
+  <title id="title">Taper, bevel, chamfer, reveal, setback, flush, proud, shy, and racking</title>
+  <desc id="description">Small labeled diagrams compare common shape and fit terms used in the Shaker table plan.</desc>
+  <defs>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; fill: #2d241d; }
+      .title { font-size: 36px; font-weight: 700; }
+      .head { font-size: 24px; font-weight: 700; }
+      .label { font-size: 18px; fill: #6c5a4c; }
+      .wood { fill: #c18b5f; stroke: #70492d; stroke-width: 4; }
+      .dark { fill: #9d6843; stroke: #70492d; stroke-width: 4; }
+      .gap { fill: none; stroke: #287bb5; stroke-width: 6; }
+      .ref { stroke: #256b45; stroke-width: 4; stroke-dasharray: 7 6; }
+    </style>
+  </defs>
+  <rect width="1200" height="760" rx="28" fill="#f5f0e7"/>
+  <text x="600" y="52" text-anchor="middle" class="title">Shape and fit words describe relationships between surfaces</text>
+  <g transform="translate(55 90)">
+    <text x="115" y="25" text-anchor="middle" class="head">Taper</text>
+    <path d="M55 55 H175 L150 235 H80 Z" class="wood"/>
+    <text x="115" y="270" text-anchor="middle" class="label">gradually becomes narrower</text>
+  </g>
+  <g transform="translate(290 90)">
+    <text x="115" y="25" text-anchor="middle" class="head">Bevel</text>
+    <path d="M15 85 H215 V180 H65 L15 120 Z" class="wood"/>
+    <text x="115" y="220" text-anchor="middle" class="label">broad angled surface</text>
+  </g>
+  <g transform="translate(535 90)">
+    <text x="115" y="25" text-anchor="middle" class="head">Chamfer</text>
+    <path d="M15 85 H195 L215 105 V180 H15 Z" class="wood"/>
+    <text x="115" y="220" text-anchor="middle" class="label">small bevel on a corner</text>
+  </g>
+  <g transform="translate(780 90)">
+    <text x="170" y="25" text-anchor="middle" class="head">Reveal and setback</text>
+    <rect x="15" y="65" width="310" height="180" class="dark"/>
+    <rect x="65" y="100" width="210" height="110" class="wood"/>
+    <rect x="56" y="91" width="228" height="128" class="gap"/>
+    <text x="170" y="275" text-anchor="middle" class="label">blue gap = reveal; inner face</text>
+    <text x="170" y="298" text-anchor="middle" class="label">behind outer face = setback</text>
+  </g>
+  <line x1="60" y1="410" x2="1140" y2="410" stroke="#d8c9b8" stroke-width="3"/>
+  <g transform="translate(45 450)">
+    <text x="110" y="25" text-anchor="middle" class="head">Flush</text>
+    <rect x="20" y="80" width="95" height="110" class="wood"/>
+    <rect x="115" y="80" width="95" height="110" class="dark"/>
+    <line x1="5" y1="80" x2="225" y2="80" class="ref"/>
+    <text x="110" y="225" text-anchor="middle" class="label">same plane</text>
+  </g>
+  <g transform="translate(285 450)">
+    <text x="110" y="25" text-anchor="middle" class="head">Proud</text>
+    <rect x="20" y="80" width="95" height="110" class="wood"/>
+    <rect x="115" y="55" width="95" height="135" class="dark"/>
+    <line x1="5" y1="80" x2="225" y2="80" class="ref"/>
+    <text x="110" y="225" text-anchor="middle" class="label">projects above</text>
+  </g>
+  <g transform="translate(525 450)">
+    <text x="110" y="25" text-anchor="middle" class="head">Shy</text>
+    <rect x="20" y="80" width="95" height="110" class="wood"/>
+    <rect x="115" y="105" width="95" height="85" class="dark"/>
+    <line x1="5" y1="80" x2="225" y2="80" class="ref"/>
+    <text x="110" y="225" text-anchor="middle" class="label">sits below</text>
+  </g>
+  <g transform="translate(780 450)">
+    <text x="170" y="25" text-anchor="middle" class="head">Racking</text>
+    <rect x="45" y="75" width="230" height="130" fill="none" stroke="#9b7d62" stroke-width="7" stroke-dasharray="10 8"/>
+    <path d="M85 75 H315 L275 205 H45 Z" fill="none" stroke="#b35c44" stroke-width="9"/>
+    <text x="170" y="245" text-anchor="middle" class="label">rectangle pushed into</text>
+    <text x="170" y="268" text-anchor="middle" class="label">a parallelogram</text>
+  </g>
+</svg>

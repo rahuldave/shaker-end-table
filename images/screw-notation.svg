@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title description">
+  <title id="title">How to read number 8 by 1 inch screw notation</title>
+  <desc id="description">The number 8 describes the screw gauge or body diameter category, not quantity. One inch describes nominal overall length from the top of the head to the tip for this flat-head wood screw.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#4f3828"/></marker>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; fill: #2d241d; }
+      .title { font-size: 38px; font-weight: 700; }
+      .head { font-size: 27px; font-weight: 700; }
+      .label { font-size: 21px; fill: #6c5a4c; }
+      .metal { fill: #aaa7a1; stroke: #4f4a45; stroke-width: 4; }
+      .dim { stroke: #4f3828; stroke-width: 3; marker-start: url(#arrow); marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect width="1200" height="430" rx="28" fill="#f5f0e7"/>
+  <text x="600" y="58" text-anchor="middle" class="title">Read “#8 × 1 in screw” as size, not quantity</text>
+  <text x="210" y="135" text-anchor="middle" class="head">#8</text>
+  <text x="210" y="170" text-anchor="middle" class="label">gauge / diameter category</text>
+  <text x="210" y="200" text-anchor="middle" class="label">The # sign does not mean “eight screws.”</text>
+  <path d="M420 165 L470 120 H520 L570 165 L520 210 H470 Z" class="metal"/>
+  <rect x="520" y="150" width="500" height="30" class="metal"/>
+  <path d="M1020 150 L1090 165 L1020 180 Z" class="metal"/>
+  <path d="M560 145 L590 185 M610 145 L640 185 M660 145 L690 185 M710 145 L740 185 M760 145 L790 185 M810 145 L840 185 M860 145 L890 185 M910 145 L940 185 M960 145 L990 185" stroke="#4f4a45" stroke-width="5"/>
+  <line x1="420" y1="250" x2="1090" y2="250" class="dim"/>
+  <line x1="420" y1="180" x2="420" y2="260" stroke="#8b7564" stroke-width="2" stroke-dasharray="7 6"/>
+  <line x1="1090" y1="190" x2="1090" y2="260" stroke="#8b7564" stroke-width="2" stroke-dasharray="7 6"/>
+  <text x="755" y="290" text-anchor="middle" class="head">1 in nominal overall length</text>
+  <text x="755" y="325" text-anchor="middle" class="label">For this flat-head screw, measure from the top of the head to the tip.</text>
+  <text x="600" y="385" text-anchor="middle" class="label">Head style, thread type, and pilot-hole size are separate choices; follow the class and hardware guidance.</text>
+</svg>

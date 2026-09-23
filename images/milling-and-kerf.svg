@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 610" role="img" aria-labelledby="title description">
+  <title id="title">Rough size, milling allowance, finished size, reference surfaces, and saw kerf</title>
+  <desc id="description">A rough uneven blank is made flat and square before reaching finished thickness, width, and length. A separate panel shows that a saw kerf consumes part of a board.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#4f3828"/></marker>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; fill: #2d241d; }
+      .title { font-size: 36px; font-weight: 700; }
+      .head { font-size: 27px; font-weight: 700; }
+      .label { font-size: 21px; }
+      .note { font-size: 19px; fill: #6c5a4c; }
+      .wood { fill: #c18b5f; stroke: #70492d; stroke-width: 4; }
+      .arrow { stroke: #4f3828; stroke-width: 4; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect width="1200" height="610" rx="28" fill="#f5f0e7"/>
+  <text x="600" y="55" text-anchor="middle" class="title">From rough blank to finished part</text>
+  <text x="185" y="115" text-anchor="middle" class="head">1. Rough size</text>
+  <path d="M70 190 Q170 155 300 185 L310 315 Q190 345 65 310 Z" class="wood"/>
+  <text x="185" y="370" text-anchor="middle" class="label">oversized, uneven, saw-marked</text>
+  <text x="185" y="400" text-anchor="middle" class="note">Extra material = milling allowance</text>
+  <line x1="330" y1="250" x2="430" y2="250" class="arrow"/>
+  <text x="545" y="115" text-anchor="middle" class="head">2. Establish references</text>
+  <rect x="435" y="175" width="230" height="150" class="wood"/>
+  <line x1="435" y1="325" x2="665" y2="325" stroke="#256b45" stroke-width="10"/>
+  <line x1="435" y1="175" x2="435" y2="325" stroke="#287bb5" stroke-width="10"/>
+  <path d="M450 310 L450 290 L470 290" fill="none" stroke="#2d241d" stroke-width="4"/>
+  <text x="545" y="370" text-anchor="middle" class="label" fill="#256b45">green = reference face</text>
+  <text x="545" y="400" text-anchor="middle" class="label" fill="#287bb5">blue = reference edge</text>
+  <text x="545" y="430" text-anchor="middle" class="note">They meet at 90°: “square.”</text>
+  <line x1="680" y1="250" x2="780" y2="250" class="arrow"/>
+  <text x="930" y="115" text-anchor="middle" class="head">3. Finished size</text>
+  <rect x="790" y="185" width="280" height="130" class="wood"/>
+  <line x1="790" y1="345" x2="1070" y2="345" stroke="#4f3828" stroke-width="3"/>
+  <text x="930" y="378" text-anchor="middle" class="label">exact T × W × L target</text>
+  <text x="930" y="408" text-anchor="middle" class="note">Flat, straight, parallel, square</text>
+  <line x1="600" y1="468" x2="600" y2="580" stroke="#d8c9b8" stroke-width="3"/>
+  <text x="265" y="500" text-anchor="middle" class="head">Saw kerf</text>
+  <rect x="65" y="525" width="170" height="48" class="wood"/>
+  <rect x="275" y="525" width="170" height="48" class="wood"/>
+  <rect x="235" y="525" width="40" height="48" fill="#f5f0e7" stroke="#b35c44" stroke-width="3" stroke-dasharray="6 5"/>
+  <text x="255" y="515" text-anchor="middle" class="label">material lost as sawdust</text>
+  <text x="900" y="500" text-anchor="middle" class="head">Cutting diagram rule</text>
+  <text x="900" y="542" text-anchor="middle" class="label">rough blank ≥ finished part</text>
+  <text x="900" y="574" text-anchor="middle" class="note">plus flattening, trimming, and every kerf</text>
+</svg>

@@ -7,13 +7,14 @@ An illustrated, beginner-friendly reference for building Christopher Schwarz's *
 - [Open the illustrated website](https://rahuldave.com/shaker-end-table/)
 - [Read the project base](PROJECT_BASE.md)
 - [Learn the lumber and woodworking terminology](LUMBER_AND_WOODWORKING_TERMINOLOGY.md)
+- [Plan lumber and the cutting diagram](CUTTING_DIAGRAM.md)
 - [View the original Popular Woodworking PDF](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf)
 
 ![Finished Shaker end table](images/finished-table.png)
 
 ## What is here
 
-The project base contains the article cut list, a ten-stage build sequence, joinery photographs, a decision log, and a place to record actual measurements. The terminology guide explains nominal lumber sizes, hardwood quarter sizes, board feet, table anatomy, joinery, grain, milling, and lumberyard language.
+The project base contains the article cut list, a ten-stage build sequence, joinery photographs, a decision log, and a place to record actual measurements. The terminology guide explains nominal lumber sizes, hardwood quarter sizes, board feet, table anatomy, joinery, grain, milling, and lumberyard language. The cutting-diagram page separates shopping, rough blanks, and finished parts, with an example layout and an actual-board inventory to complete before cutting.
 
 GitHub Pages renders the same Markdown references as a website, so the repository and site stay in sync without generated HTML files.
 

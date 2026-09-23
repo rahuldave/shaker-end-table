@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Example cutting diagram: reserve the tabletop first</title>
+  <desc id="desc">A hypothetical cherry board actually 1 by 8 by 96 inches has a 1-inch allowance at each end, three 21-inch sections separated by three 1/8-inch kerfs, and a 30 5/8-inch remainder. Reserve a 6 3/4-inch rough width within each section. If edge preparation leaves each piece 6 1/2 inches wide, the glued panel is 19 1/2 by 21 inches before trimming to 18 by 18. This is a planning example only, not a complete-table cutting layout.</desc>
+  <defs>
+    <pattern id="waste" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="10" height="10" fill="#eee9e2"/><path d="M0 0V10" stroke="#b6aaa0" stroke-width="2"/></pattern>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#6a5142"/></marker>
+    <style>
+      text{font-family:Arial,Helvetica,sans-serif;fill:#302b26}
+      .title{font-size:31px;font-weight:700}.head{font-size:24px;font-weight:700}
+      .label{font-size:22px}.note{font-size:19px;fill:#635a51}.small{font-size:17px;fill:#635a51}
+      .wood{fill:#ead1b8;stroke:#8a6549;stroke-width:1.5}.line{fill:none;stroke:#6a5142;stroke-width:1.5}
+    </style>
+  </defs>
+  <rect width="1200" height="900" fill="#fffdf9"/>
+  <text x="48" y="54" class="title">Reserve the top before the smaller parts</text>
+  <text x="48" y="89" class="note">PLANNING EXAMPLE ONLY · One hypothetical board · All measurements in inches</text>
+  <text x="48" y="137" class="head">1. Board as measured: 1 thick x 8 wide x 96 long</text>
+  <text x="48" y="168" class="note">Sold as 4/4 cherry. Full board shown below; its length runs left to right.</text>
+
+  <!-- Broad face drawn at 11 pixels per inch. End reserves include squaring loss. -->
+  <rect x="48" y="214" width="1056" height="88" fill="#f3efe8" stroke="#8a6549" stroke-width="1.5"/>
+  <rect x="48" y="214" width="11" height="88" fill="url(#waste)"/>
+  <rect class="wood" x="59" y="214" width="231" height="88"/>
+  <rect x="290" y="214" width="1.375" height="88" fill="#a13d2d"/>
+  <rect class="wood" x="291.375" y="214" width="231" height="88"/>
+  <rect x="522.375" y="214" width="1.375" height="88" fill="#a13d2d"/>
+  <rect class="wood" x="523.75" y="214" width="231" height="88"/>
+  <rect x="754.75" y="214" width="1.375" height="88" fill="#a13d2d"/>
+  <rect x="756.125" y="214" width="336.875" height="88" fill="#e3ebe0" stroke="#66765f"/>
+  <rect x="1093" y="214" width="11" height="88" fill="url(#waste)"/>
+  <text x="174" y="249" text-anchor="middle" class="head">T1 · 21</text>
+  <text x="407" y="249" text-anchor="middle" class="head">T2 · 21</text>
+  <text x="639" y="249" text-anchor="middle" class="head">T3 · 21</text>
+  <text x="924" y="249" text-anchor="middle" class="head">Remainder · 30 5/8</text>
+  <text x="924" y="279" text-anchor="middle" class="small">Unassigned; inspect before using</text>
+  <path d="M114 279H234" class="line" marker-end="url(#arrow)"/>
+  <path d="M347 279H467" class="line" marker-end="url(#arrow)"/>
+  <path d="M579 279H699" class="line" marker-end="url(#arrow)"/>
+  <text x="48" y="198" class="small">1-in end reserve</text>
+  <path d="M54 203V214" class="line"/>
+  <text x="1104" y="198" text-anchor="end" class="small">1-in end reserve</text>
+  <path d="M1099 203V214" class="line"/>
+  <text x="48" y="338" class="note">Three red cuts = 1/8-in kerf each. Arrows show grain direction.</text>
+  <text x="48" y="369" class="note">Reserve 6 3/4 in of rough width in each 8-in-wide section; allow for ripping and edge cleanup.</text>
+
+  <text x="48" y="421" class="head">2. Joint, arrange, and glue the three pieces</text>
+  <!-- Panel at 18 pixels per inch: width 19.5, length 21. -->
+  <rect class="wood" x="78" y="460" width="117" height="378"/>
+  <rect class="wood" x="195" y="460" width="117" height="378" style="fill:#e6c9ac"/>
+  <rect class="wood" x="312" y="460" width="117" height="378"/>
+  <rect x="91.5" y="487" width="324" height="324" fill="none" stroke="#2d5a4d" stroke-width="3" stroke-dasharray="9 6"/>
+  <text x="136" y="527" text-anchor="middle" class="head">T1</text>
+  <text x="253" y="527" text-anchor="middle" class="head">T2</text>
+  <text x="370" y="527" text-anchor="middle" class="head">T3</text>
+  <path d="M136 695V572" class="line" marker-end="url(#arrow)"/>
+  <path d="M253 695V572" class="line" marker-end="url(#arrow)"/>
+  <path d="M370 695V572" class="line" marker-end="url(#arrow)"/>
+  <text x="136" y="758" text-anchor="middle" class="label">6 1/2</text>
+  <text x="253" y="758" text-anchor="middle" class="label">6 1/2</text>
+  <text x="370" y="758" text-anchor="middle" class="label">6 1/2</text>
+  <text x="253" y="871" text-anchor="middle" class="note">19 1/2 in across the grain</text>
+  <text x="55" y="654" text-anchor="middle" transform="rotate(-90 55 654)" class="note">21 in along the grain</text>
+
+  <text x="485" y="492" class="head">Leave room to reach the finished size</text>
+  <text x="485" y="534" class="label">Each rough width: 6 3/4 in</text>
+  <text x="485" y="566" class="label">Example width after jointing: 6 1/2 in</text>
+  <text x="485" y="598" class="label">Glued panel: 19 1/2 x 21 in in plan</text>
+  <path d="M485 634H546" stroke="#2d5a4d" stroke-width="3" stroke-dasharray="9 6"/>
+  <text x="560" y="642" class="label">Dashed outline: final 18 x 18 in top</text>
+  <text x="485" y="692" class="note">Keep thickness for flattening after glue-up.</text>
+  <text x="485" y="723" class="note">Finished top: 3/4 x 18 x 18 in (T x W x L).</text>
+  <text x="485" y="769" class="note">Check grain, defects, and actual milling loss.</text>
+  <text x="485" y="800" class="note">The complete table still needs its other boards.</text>
+  <text x="485" y="858" class="small">Project example after Schwarz / Woodworking Magazine, Autumn 2004.</text>
+  <metadata>Original source: https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf . New project planning diagram; assumed stock and rough allowances are not source dimensions.</metadata>
+</svg>

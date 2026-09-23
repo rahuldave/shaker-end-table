@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title description">
+  <title id="title">Board foot, square foot, and linear foot compared</title>
+  <desc id="description">A board foot is a volume one inch thick by twelve inches wide by twelve inches long. A square foot is surface area twelve by twelve inches. A linear foot is twelve inches of length regardless of cross-section.</desc>
+  <defs>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; fill: #2d241d; }
+      .title { font-size: 38px; font-weight: 700; }
+      .head { font-size: 28px; font-weight: 700; }
+      .label { font-size: 21px; }
+      .note { font-size: 20px; fill: #6c5a4c; }
+      .wood { fill: #c18b5f; stroke: #70492d; stroke-width: 4; }
+      .line { stroke: #4f3828; stroke-width: 4; }
+    </style>
+  </defs>
+  <rect width="1200" height="520" rx="28" fill="#f5f0e7"/>
+  <text x="600" y="58" text-anchor="middle" class="title">Three different ways lumber can be measured or sold</text>
+  <line x1="400" y1="92" x2="400" y2="470" stroke="#d8c9b8" stroke-width="3"/>
+  <line x1="800" y1="92" x2="800" y2="470" stroke="#d8c9b8" stroke-width="3"/>
+  <text x="200" y="120" text-anchor="middle" class="head">Board foot = volume</text>
+  <polygon points="90,230 280,230 330,190 140,190" fill="#d7a67b" stroke="#70492d" stroke-width="4"/>
+  <rect x="90" y="230" width="190" height="75" class="wood"/>
+  <polygon points="280,230 330,190 330,265 280,305" fill="#9e6b44" stroke="#70492d" stroke-width="4"/>
+  <text x="210" y="340" text-anchor="middle" class="label">1 in thick × 12 in wide</text>
+  <text x="210" y="370" text-anchor="middle" class="label">× 12 in long = 1 bd ft</text>
+  <text x="200" y="424" text-anchor="middle" class="note">It measures wood volume,</text>
+  <text x="200" y="450" text-anchor="middle" class="note">not the board’s length.</text>
+  <text x="600" y="120" text-anchor="middle" class="head">Square foot = area</text>
+  <rect x="485" y="175" width="230" height="230" rx="3" class="wood"/>
+  <text x="600" y="270" text-anchor="middle" class="label">12 in</text>
+  <text x="600" y="302" text-anchor="middle" class="label">× 12 in</text>
+  <text x="600" y="440" text-anchor="middle" class="note">No thickness is included.</text>
+  <text x="1000" y="120" text-anchor="middle" class="head">Linear foot = length</text>
+  <rect x="855" y="245" width="290" height="60" rx="3" class="wood"/>
+  <line x1="855" y1="215" x2="1145" y2="215" class="line"/>
+  <text x="1000" y="200" text-anchor="middle" class="label">12 in long = 1 linear ft</text>
+  <text x="1000" y="380" text-anchor="middle" class="note">Width and thickness may be</text>
+  <text x="1000" y="406" text-anchor="middle" class="note">anything; only length counts.</text>
+</svg>

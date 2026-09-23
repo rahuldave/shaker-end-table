@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title description">
+  <title id="title">How to read fractions on one inch of a ruler</title>
+  <desc id="description">A one-inch ruler divided into sixteenths. The half-inch mark is longest, quarter marks are next, eighth marks are shorter, and sixteenth marks are shortest.</desc>
+  <defs>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; fill: #2d241d; }
+      .title { font-size: 38px; font-weight: 700; }
+      .label { font-size: 24px; font-weight: 700; }
+      .note { font-size: 21px; fill: #6c5a4c; }
+      .base { stroke: #2d241d; stroke-width: 5; }
+      .tick { stroke: #2d241d; stroke-width: 4; }
+      .guide { stroke: #9b7d62; stroke-width: 2; stroke-dasharray: 6 6; }
+    </style>
+  </defs>
+  <rect width="1200" height="430" rx="28" fill="#f5f0e7"/>
+  <text x="600" y="58" text-anchor="middle" class="title">One inch, divided into sixteenths</text>
+  <line x1="100" y1="260" x2="1100" y2="260" class="base"/>
+  <g class="tick">
+    <line x1="100" y1="260" x2="100" y2="145"/>
+    <line x1="162.5" y1="260" x2="162.5" y2="225"/>
+    <line x1="225" y1="260" x2="225" y2="205"/>
+    <line x1="287.5" y1="260" x2="287.5" y2="225"/>
+    <line x1="350" y1="260" x2="350" y2="180"/>
+    <line x1="412.5" y1="260" x2="412.5" y2="225"/>
+    <line x1="475" y1="260" x2="475" y2="205"/>
+    <line x1="537.5" y1="260" x2="537.5" y2="225"/>
+    <line x1="600" y1="260" x2="600" y2="145"/>
+    <line x1="662.5" y1="260" x2="662.5" y2="225"/>
+    <line x1="725" y1="260" x2="725" y2="205"/>
+    <line x1="787.5" y1="260" x2="787.5" y2="225"/>
+    <line x1="850" y1="260" x2="850" y2="180"/>
+    <line x1="912.5" y1="260" x2="912.5" y2="225"/>
+    <line x1="975" y1="260" x2="975" y2="205"/>
+    <line x1="1037.5" y1="260" x2="1037.5" y2="225"/>
+    <line x1="1100" y1="260" x2="1100" y2="145"/>
+  </g>
+  <text x="100" y="300" text-anchor="middle" class="label">0</text>
+  <text x="350" y="300" text-anchor="middle" class="label">1/4</text>
+  <text x="600" y="300" text-anchor="middle" class="label">1/2</text>
+  <text x="850" y="300" text-anchor="middle" class="label">3/4</text>
+  <text x="1100" y="300" text-anchor="middle" class="label">1 in</text>
+  <line x1="600" y1="130" x2="600" y2="95" class="guide"/>
+  <text x="600" y="88" text-anchor="middle" class="label">longest middle mark = 1/2 in</text>
+  <text x="600" y="355" text-anchor="middle" class="note">Between 0 and 1 in: 16 equal spaces = sixteenths</text>
+  <text x="600" y="389" text-anchor="middle" class="note">Longer marks show simpler fractions: halves, quarters, eighths, then sixteenths.</text>
+</svg>

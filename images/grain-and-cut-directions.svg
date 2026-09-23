@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title description">
+  <title id="title">Face grain, edge grain, end grain, rip cut, crosscut, and resaw</title>
+  <desc id="description">A board is labeled on its face, edge, and end. Arrows show rip cuts along the grain, crosscuts across the grain, and resawing through thickness to create thinner boards.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#287bb5"/></marker>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; fill: #2d241d; }
+      .title { font-size: 36px; font-weight: 700; }
+      .head { font-size: 25px; font-weight: 700; }
+      .label { font-size: 19px; fill: #6c5a4c; }
+      .wood { fill: #c18b5f; stroke: #70492d; stroke-width: 4; }
+      .top { fill: #d6a477; stroke: #70492d; stroke-width: 4; }
+      .side { fill: #9d6843; stroke: #70492d; stroke-width: 4; }
+      .grain { stroke: #8f5b39; stroke-width: 3; fill: none; }
+      .cut { stroke: #287bb5; stroke-width: 6; marker-end: url(#arrow); }
+    </style>
+  </defs>
+  <rect width="1200" height="720" rx="28" fill="#f5f0e7"/>
+  <text x="600" y="52" text-anchor="middle" class="title">Board surfaces, grain direction, and three different cuts</text>
+  <g transform="translate(65 90)">
+    <text x="250" y="25" text-anchor="middle" class="head">The three visible surfaces</text>
+    <polygon points="20,120 390,120 470,70 100,70" class="top"/>
+    <polygon points="20,120 390,120 390,245 20,245" class="wood"/>
+    <polygon points="390,120 470,70 470,195 390,245" class="side"/>
+    <line x1="55" y1="155" x2="365" y2="145" stroke="#8f5b39" stroke-width="4"/>
+    <line x1="55" y1="185" x2="365" y2="178" stroke="#8f5b39" stroke-width="4"/>
+    <line x1="55" y1="215" x2="365" y2="205" stroke="#8f5b39" stroke-width="4"/>
+    <line x1="120" y1="95" x2="390" y2="95" stroke="#8f5b39" stroke-width="4"/>
+    <text x="235" y="58" text-anchor="middle" class="label">face grain: broad face (W × L)</text>
+    <text x="210" y="275" text-anchor="middle" class="label">edge grain: narrow edge (T × L)</text>
+    <text x="458" y="230" text-anchor="middle" class="label">end</text>
+    <text x="458" y="252" text-anchor="middle" class="label">grain</text>
+  </g>
+  <g transform="translate(620 90)">
+    <text x="250" y="25" text-anchor="middle" class="head">Cut direction changes the dimension</text>
+    <rect x="20" y="70" width="500" height="175" class="wood"/>
+    <line x1="45" y1="105" x2="490" y2="95" stroke="#8f5b39" stroke-width="4"/>
+    <line x1="45" y1="155" x2="490" y2="145" stroke="#8f5b39" stroke-width="4"/>
+    <line x1="45" y1="205" x2="490" y2="195" stroke="#8f5b39" stroke-width="4"/>
+    <line x1="85" y1="135" x2="430" y2="135" stroke="#287bb5" stroke-width="8"/>
+    <polygon points="430,135 405,122 405,148" fill="#287bb5"/>
+    <text x="260" y="120" text-anchor="middle" class="label">rip: along grain → changes width</text>
+    <line x1="420" y1="225" x2="420" y2="85" stroke="#287bb5" stroke-width="8"/>
+    <polygon points="420,85 407,110 433,110" fill="#287bb5"/>
+    <text x="350" y="278" text-anchor="middle" class="label">crosscut: across grain → changes length</text>
+  </g>
+  <line x1="60" y1="405" x2="1140" y2="405" stroke="#d8c9b8" stroke-width="3"/>
+  <g transform="translate(90 440)">
+    <text x="210" y="25" text-anchor="middle" class="head">Resaw: split through thickness</text>
+    <rect x="20" y="70" width="380" height="140" class="wood"/>
+    <line x1="35" y1="140" x2="385" y2="140" stroke="#287bb5" stroke-width="8" stroke-dasharray="12 8"/>
+    <text x="210" y="250" text-anchor="middle" class="label">one thick board → two thinner boards</text>
+  </g>
+  <g transform="translate(570 440)">
+    <text x="260" y="25" text-anchor="middle" class="head">Flat-, rift-, and quarter-sawn describe ring angle</text>
+    <g transform="translate(0 55)">
+      <rect x="0" y="20" width="150" height="140" class="wood"/>
+      <line x1="20" y1="95" x2="130" y2="95" stroke="#8f5b39" stroke-width="7"/>
+      <line x1="20" y1="125" x2="130" y2="125" stroke="#8f5b39" stroke-width="7"/>
+      <text x="75" y="195" text-anchor="middle" class="label">flat-sawn</text>
+    </g>
+    <g transform="translate(185 55)">
+      <rect x="0" y="20" width="150" height="140" class="wood"/>
+      <line x1="20" y1="140" x2="100" y2="40" stroke="#8f5b39" stroke-width="7"/><line x1="50" y1="155" x2="130" y2="55" stroke="#8f5b39" stroke-width="7"/>
+      <text x="75" y="195" text-anchor="middle" class="label">rift-sawn</text>
+    </g>
+    <g transform="translate(370 55)">
+      <rect x="0" y="20" width="150" height="140" class="wood"/>
+      <line x1="35" y1="150" x2="35" y2="30" stroke="#8f5b39" stroke-width="7"/><line x1="75" y1="150" x2="75" y2="30" stroke="#8f5b39" stroke-width="7"/><line x1="115" y1="150" x2="115" y2="30" stroke="#8f5b39" stroke-width="7"/>
+      <text x="75" y="195" text-anchor="middle" class="label">quarter-sawn</text>
+    </g>
+  </g>
+</svg>

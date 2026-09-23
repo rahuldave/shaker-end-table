@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" role="img" aria-labelledby="title description">
+  <title id="title">Common board defects</title>
+  <desc id="description">Small labeled drawings show bow, crook, cup, twist, check, knot, and wane.</desc>
+  <defs>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; fill: #2d241d; }
+      .title { font-size: 38px; font-weight: 700; }
+      .head { font-size: 24px; font-weight: 700; }
+      .label { font-size: 18px; fill: #6c5a4c; }
+      .wood { fill: #c18b5f; stroke: #70492d; stroke-width: 4; }
+      .line { stroke: #70492d; stroke-width: 8; fill: none; }
+      .ref { stroke: #9b7d62; stroke-width: 3; stroke-dasharray: 8 7; }
+    </style>
+  </defs>
+  <rect width="1200" height="780" rx="28" fill="#f5f0e7"/>
+  <text x="600" y="55" text-anchor="middle" class="title">Common defects: inspect the whole board before laying out parts</text>
+  <g transform="translate(40 95)">
+    <text x="150" y="25" text-anchor="middle" class="head">Bow</text>
+    <line x1="20" y1="145" x2="280" y2="145" stroke="#9b7d62" stroke-width="3" stroke-dasharray="8 7"/>
+    <path d="M20 150 Q150 70 280 150 L280 166 Q150 86 20 166 Z" fill="#70492d"/>
+    <text x="150" y="190" text-anchor="middle" class="label">curve along face length</text>
+  </g>
+  <g transform="translate(340 95)">
+    <text x="150" y="25" text-anchor="middle" class="head">Crook</text>
+    <line x1="20" y1="145" x2="280" y2="145" stroke="#9b7d62" stroke-width="3" stroke-dasharray="8 7"/>
+    <path d="M20 140 Q150 210 280 140 L280 156 Q150 226 20 156 Z" fill="#70492d"/>
+    <text x="150" y="230" text-anchor="middle" class="label">curve along edge length</text>
+  </g>
+  <g transform="translate(640 95)">
+    <text x="150" y="25" text-anchor="middle" class="head">Cup</text>
+    <line x1="20" y1="110" x2="280" y2="110" stroke="#9b7d62" stroke-width="3" stroke-dasharray="8 7"/>
+    <path d="M35 100 Q150 195 265 100 L265 116 Q150 211 35 116 Z" fill="#70492d"/>
+    <text x="150" y="230" text-anchor="middle" class="label">curve across width</text>
+  </g>
+  <g transform="translate(940 95)">
+    <text x="110" y="25" text-anchor="middle" class="head">Twist / wind</text>
+    <polygon points="10,85 210,60 210,170 10,195" class="wood"/>
+    <line x1="10" y1="85" x2="210" y2="170" stroke="#b35c44" stroke-width="6"/>
+    <line x1="210" y1="60" x2="10" y2="195" stroke="#b35c44" stroke-width="6"/>
+    <text x="110" y="230" text-anchor="middle" class="label">corners not in one plane</text>
+  </g>
+  <line x1="60" y1="375" x2="1140" y2="375" stroke="#d8c9b8" stroke-width="3"/>
+  <g transform="translate(95 420)">
+    <text x="145" y="25" text-anchor="middle" class="head">Check</text>
+    <rect x="15" y="70" width="260" height="145" class="wood"/>
+    <polygon points="15,130 82,115 112,138 158,123 160,137 114,152 84,129 15,144" fill="#442c20"/>
+    <text x="145" y="255" text-anchor="middle" class="label">drying crack, often at an end</text>
+  </g>
+  <g transform="translate(455 420)">
+    <text x="145" y="25" text-anchor="middle" class="head">Knot</text>
+    <rect x="15" y="70" width="260" height="145" class="wood"/>
+    <ellipse cx="145" cy="142" rx="48" ry="38" fill="#70492d"/>
+    <ellipse cx="145" cy="142" rx="26" ry="20" fill="#9d6843"/>
+    <text x="145" y="255" text-anchor="middle" class="label">enclosed base of a branch</text>
+  </g>
+  <g transform="translate(815 420)">
+    <text x="145" y="25" text-anchor="middle" class="head">Wane</text>
+    <path d="M15 70 H275 V215 H15 Q70 165 15 70 Z" class="wood"/>
+    <path d="M15 70 Q70 165 15 215 L27 215 Q84 165 27 70 Z" fill="#5f6f3d"/>
+    <text x="145" y="255" text-anchor="middle" class="label">missing wood or bark at edge</text>
+  </g>
+  <text x="600" y="735" text-anchor="middle" class="label">Defects consume usable length, width, or thickness, so they must be marked on a cutting diagram.</text>
+</svg>

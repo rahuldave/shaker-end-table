@@ -11,6 +11,7 @@ This is the working reference for the woodworking class project. It summarizes t
 - [Original article PDF](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf)
 - Local-only archival copy: `source/popular-woodworking-shaker-end-table.pdf` (excluded from the public repository)
 - [Beginner's lumber and woodworking terminology](LUMBER_AND_WOODWORKING_TERMINOLOGY.md)
+- [Cutting diagram and lumber plan](CUTTING_DIAGRAM.md)
 - Main article in the local PDF: pages 1-6
 - Companion sections: panel glue-up on PDF pages 7-8, rabbeted drawers on pages 9-12, and brushing lacquer on pages 15-16
 
@@ -122,7 +123,7 @@ Notch all four guides 3/16 x 3/16 in around the legs. Glue the lower guides flus
 
 ### 8. Shape and attach the top
 
-Bring the panel to 18 x 18 x 3/4 in. The article's underside bevel is 2 in wide and leaves a 1/4-in edge. Its table-saw method uses an approximately 7-degree blade setting; a rasp, file, scraper, and sanding block are the hand-tool alternative. Attach the top through the elongated holes with #8 x 1 in screws.
+Bring the panel to 18 x 18 x 3/4 in. The article's underside bevel is 2 in wide and removes 1/4 in vertically, leaving a 1/2-in-thick outer edge. Its table-saw method uses an approximately 7-degree blade setting; a rasp, file, scraper, and sanding block are the hand-tool alternative. Attach the top through the elongated holes with #8 x 1 in screws.
 
 **Checkpoint:** Center the base under the top, verify an even overhang, and do not overtighten the screws.
 
@@ -147,6 +148,9 @@ Update this table whenever the class or project owner settles a choice.
 | Top bevel method | Table saw or hand-shaped | Open - choose with instructor | 2026-09-20 |
 | Finish | Boiled linseed oil plus satin lacquer | Baseline; confirm class finish rules | 2026-09-20 |
 | Knob | Cherry Shaker-style knob, approximately 7/8 in, 3/8-in tenon | Baseline | 2026-09-20 |
+| Cutting-diagram format | Separate purchase stock, proposed rough blanks, and article finished parts in [the lumber plan](CUTTING_DIAGRAM.md) | Planning page added; actual board inventory pending | 2026-09-23 |
+| Rough allowances and top layout | Proposed oversized blanks and a hypothetical three-piece top layout; finished article dimensions retained | Proposal only; check boards, milling loss, and class requirements | 2026-09-23 |
+| Drawer stock preparation | Prefer usable surfaced 1/2-in poplar or plane thicker stock; resawing remains optional | Recommendation; instructor and stock confirmation pending | 2026-09-23 |
 
 ## Measurement record
 

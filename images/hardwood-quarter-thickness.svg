@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title description">
+  <title id="title">Hardwood quarter-thickness names</title>
+  <desc id="description">Four rough board ends compare 4/4, 5/4, 6/4, and 8/4. The names mean four, five, six, and eight quarters of an inch before drying and surfacing.</desc>
+  <defs>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; fill: #2d241d; }
+      .title { font-size: 38px; font-weight: 700; }
+      .name { font-size: 30px; font-weight: 700; }
+      .label { font-size: 22px; }
+      .note { font-size: 21px; fill: #6c5a4c; }
+      .rough { fill: #c18b5f; stroke: #70492d; stroke-width: 4; }
+      .finished { fill: #e7c39f; stroke: #fff8ee; stroke-width: 3; }
+    </style>
+  </defs>
+  <rect width="1200" height="520" rx="28" fill="#f5f0e7"/>
+  <text x="600" y="58" text-anchor="middle" class="title">Hardwood thickness is named in quarter-inches</text>
+  <g transform="translate(95 0)">
+    <rect x="0" y="280" width="190" height="80" rx="4" class="rough"/>
+    <rect x="8" y="292" width="174" height="56" class="finished"/>
+    <text x="95" y="110" text-anchor="middle" class="name">4/4</text>
+    <text x="95" y="142" text-anchor="middle" class="label">“four-quarter”</text>
+    <text x="95" y="178" text-anchor="middle" class="label">4 × 1/4 = 1 in rough</text>
+    <text x="95" y="400" text-anchor="middle" class="note">often ≈ 3/4 in finished</text>
+  </g>
+  <g transform="translate(365 0)">
+    <rect x="0" y="260" width="190" height="100" rx="4" class="rough"/>
+    <rect x="8" y="272" width="174" height="76" class="finished"/>
+    <text x="95" y="110" text-anchor="middle" class="name">5/4</text>
+    <text x="95" y="142" text-anchor="middle" class="label">“five-quarter”</text>
+    <text x="95" y="178" text-anchor="middle" class="label">5 × 1/4 = 1 1/4 in rough</text>
+    <text x="95" y="400" text-anchor="middle" class="note">often ≈ 1 in finished</text>
+  </g>
+  <g transform="translate(635 0)">
+    <rect x="0" y="240" width="190" height="120" rx="4" class="rough"/>
+    <rect x="8" y="252" width="174" height="96" class="finished"/>
+    <text x="95" y="110" text-anchor="middle" class="name">6/4</text>
+    <text x="95" y="142" text-anchor="middle" class="label">“six-quarter”</text>
+    <text x="95" y="178" text-anchor="middle" class="label">6 × 1/4 = 1 1/2 in rough</text>
+    <text x="95" y="400" text-anchor="middle" class="note">often ≈ 1 1/4 in finished</text>
+  </g>
+  <g transform="translate(905 0)">
+    <rect x="0" y="200" width="190" height="160" rx="4" class="rough"/>
+    <rect x="8" y="212" width="174" height="124" class="finished"/>
+    <text x="95" y="110" text-anchor="middle" class="name">8/4</text>
+    <text x="95" y="142" text-anchor="middle" class="label">“eight-quarter”</text>
+    <text x="95" y="178" text-anchor="middle" class="label">8 × 1/4 = 2 in rough</text>
+    <text x="95" y="400" text-anchor="middle" class="note">often ≈ 1 1/2–1 3/4 in finished</text>
+  </g>
+  <text x="600" y="452" text-anchor="middle" class="label">Brown outline = nominal rough category · light inset = possible finished yield</text>
+  <text x="600" y="486" text-anchor="middle" class="note">Actual thickness varies. Measure the board before planning parts.</text>
+</svg>

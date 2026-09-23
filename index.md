@@ -17,6 +17,10 @@ The article cut list, dimensioned drawing, ten-stage build sequence, joinery pho
 
 A plain-language guide to nominal lumber sizes, hardwood quarter sizes, board feet, table anatomy, joinery, grain, milling, defects, and lumberyard language.
 
+### [Cutting diagram and lumber plan](CUTTING_DIAGRAM.md)
+
+What to buy, proposed rough blanks, finished dimensions, an illustrated top-board layout, and a worksheet for turning measured boards into a complete cutting diagram.
+
 ### [Original Popular Woodworking PDF](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf)
 
 The complete source article by Christopher Schwarz, followed by companion material on panel glue-ups, rabbeted drawers, and brushing lacquer.
