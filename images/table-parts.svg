@@ -35,7 +35,7 @@
   <text x="330" y="290" class="onwood">knob</text>
   <text x="505" y="620" class="label">foot</text><path d="M500 614 L478 640" class="call"/>
   <text x="528" y="225" class="label">apron</text>
-  <text x="528" y="252" class="note">behind/at sides and rear</text>
+  <text x="528" y="252" class="note">side/rear frame member</text>
   <path d="M522 235 L445 210" class="call"/>
   <line x1="610" y1="100" x2="610" y2="700" stroke="#d8c9b8" stroke-width="3"/>
   <text x="905" y="100" text-anchor="middle" class="head">Drawer box, exploded</text>
