@@ -399,7 +399,7 @@ The article's simple rabbeted-drawer sizes are:
 | 1 | Back | 1/2 in | 3 in | 11 3/4 in | Ends receive 1/2-in-wide x 1/4-in-deep rabbets |
 | 1 | Bottom | 1/2 in | 11 1/4 in | 12 3/8 in | Edges are rabbeted to fit a 1/4-in-wide x 1/4-in-deep groove |
 
-These are article baselines, not buying sizes. Drawer sizes depend on the assembled opening, installed top, and the class's choice of rabbeted or dovetailed construction.
+These are archival article baselines, not buying sizes. **We selected hand-cut dovetails on 2026-09-24**, so the rabbeted drawer dimensions above are not final cutting targets for our drawer. Confirm the dovetail and bottom details with the instructor, then fit dimensions to the assembled opening and installed top. See the complete [stock layouts](CUTTING_DIAGRAM.md#complete-example-four-source-boards-every-required-wooden-part).
 
 ### Top
 
@@ -778,4 +778,4 @@ A reliable cutting diagram cannot be based only on `12 board feet`. It must also
 - Whether thinner drawer parts will be bought at thickness or resawn
 - Extra stock for machine setup and test cuts
 
-The [cutting diagram and lumber plan](CUTTING_DIAGRAM.md) separates **what to buy**, **rough blanks to prepare**, and **finished parts in the article cut list**. It includes a clearly labeled example layout and a worksheet for recording the actual boards. Keeping those three stages separate prevents nominal lumber names from being mistaken for final dimensions.
+The [cutting diagram and lumber plan](CUTTING_DIAGRAM.md) separates **what to buy**, **rough blanks to prepare**, and **finished parts in the article cut list**. It includes four clearly labeled example source-board layouts covering every table and drawer part, plus a blank worksheet for recording the actual boards. Keeping those three stages separate prevents nominal lumber names from being mistaken for final dimensions.

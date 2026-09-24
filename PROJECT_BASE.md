@@ -63,7 +63,7 @@ Dimensions are **thickness x width x length**. These are finished sizes from the
 | 1 | Back | 1/2 x 3 x 11 3/4 | Poplar | 1/4 x 1/2 in rabbet at the ends |
 | 1 | Bottom | 1/2 x 11 1/4 x 12 3/8 | Poplar | Fits a 1/4 x 1/4 in groove |
 
-The article's drawer dimensions assume the rabbeted construction described later in the PDF. If the class requires hand-cut dovetails, establish the joinery and bottom detail before treating these dimensions as final.
+The article's drawer dimensions assume the rabbeted construction described later in the PDF. Hand-cut dovetails were selected on 2026-09-24. The drawer rows above are retained as archival rabbeted-drawer references, not final cutting targets for this build. Confirm the dovetail layout and bottom detail, then fit all drawer dimensions to the assembled opening; the current oversized stock reservations are in the lumber plan.
 
 ## Build sequence
 
@@ -129,7 +129,7 @@ Bring the panel to 18 x 18 x 3/4 in. The article's underside bevel is 2 in wide 
 
 ### 9. Build and fit the drawer
 
-Choose the drawer method with the instructor before cutting joinery. The original table shown in the article has a hand-dovetailed drawer; PDF pages 9-12 document the simpler rabbeted option used by the cut list. Build the drawer after the top is attached, then plane the drawer to a smooth running fit and establish an even reveal around the front. Add a removable stop at the back if desired.
+Use the selected hand-cut dovetails; confirm the front/rear joint layout and bottom detail with the instructor before cutting joinery. The original table shown in the article has a hand-dovetailed drawer; PDF pages 9-12 document the simpler rabbeted option used by the cut list. Build the drawer after the top is attached, then plane the drawer to a smooth running fit and establish an even reveal around the front. Add a removable stop at the back if desired.
 
 ### 10. Finish
 
@@ -143,13 +143,15 @@ Update this table whenever the class or project owner settles a choice.
 |---|---|---|---|
 | Visible wood | Cherry, following the article | Baseline; confirm availability | 2026-09-20 |
 | Drawer secondary wood | Poplar | Baseline; confirm availability | 2026-09-20 |
-| Drawer joinery | Hand dovetails or simple rabbets | Open - ask instructor | 2026-09-20 |
+| Drawer joinery | Hand-cut dovetails | Selected by project owner; instructor to confirm detailed layout and bottom arrangement | 2026-09-24 |
 | Base joinery | Article's simplified mortise-and-tenon plus upper-rail dovetails | Baseline; confirm class method | 2026-09-20 |
 | Top bevel method | Table saw or hand-shaped | Open - choose with instructor | 2026-09-20 |
 | Finish | Boiled linseed oil plus satin lacquer | Baseline; confirm class finish rules | 2026-09-20 |
 | Knob | Cherry Shaker-style knob, approximately 7/8 in, 3/8-in tenon | Baseline | 2026-09-20 |
 | Cutting-diagram format | Separate purchase stock, proposed rough blanks, and article finished parts in [the lumber plan](CUTTING_DIAGRAM.md) | Planning page added; actual board inventory pending | 2026-09-23 |
-| Rough allowances and top layout | Proposed oversized blanks and a hypothetical three-piece top layout; finished article dimensions retained | Proposal only; check boards, milling loss, and class requirements | 2026-09-23 |
+| Rough allowances and complete stock layout | Four hypothetical source-board layouts cover all parts and test reserves; three-piece top retained | Proposal only; check actual boards, grain, milling loss, and class requirements | 2026-09-24 |
+| Drawer rough stock after dovetail choice | Back blank increased to 4 x 14 in; bottom uses two 7 1/4 x 14-in strips for a roughly 14 x 14-in panel | Larger rough reserves preserve joint/bottom choices; affects drawer back, bottom, grooves and fit; finished sizes to be measured | 2026-09-24 |
+| Printed class handouts | Two separate two-page PDFs; blank actual-board inventory; source joinery cutaway in both | Local print material only; excluded from website | 2026-09-24 |
 | Drawer stock preparation | Prefer usable surfaced 1/2-in poplar or plane thicker stock; resawing remains optional | Recommendation; instructor and stock confirmation pending | 2026-09-23 |
 
 ## Measurement record

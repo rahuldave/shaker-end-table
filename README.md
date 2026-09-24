@@ -14,7 +14,7 @@ An illustrated, beginner-friendly reference for building Christopher Schwarz's *
 
 ## What is here
 
-The project base contains the article cut list, a ten-stage build sequence, joinery photographs, a decision log, and a place to record actual measurements. The terminology guide explains nominal lumber sizes, hardwood quarter sizes, board feet, table anatomy, joinery, grain, milling, and lumberyard language. The cutting-diagram page separates shopping, rough blanks, and finished parts, with an example layout and an actual-board inventory to complete before cutting.
+The project base contains the article cut list, a ten-stage build sequence, joinery photographs, a decision log, and a place to record actual measurements. The terminology guide explains nominal lumber sizes, hardwood quarter sizes, board feet, table anatomy, joinery, grain, milling, and lumberyard language. The cutting-diagram page separates shopping, rough blanks, and finished parts, with complete example layouts for every table and dovetailed-drawer part and a blank actual-board inventory to complete before cutting.
 
 GitHub Pages renders the same Markdown references as a website, so the repository and site stay in sync without generated HTML files.
 

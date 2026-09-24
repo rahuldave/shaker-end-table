@@ -19,7 +19,7 @@ A plain-language guide to nominal lumber sizes, hardwood quarter sizes, board fe
 
 ### [Cutting diagram and lumber plan](CUTTING_DIAGRAM.md)
 
-What to buy, proposed rough blanks, finished dimensions, an illustrated top-board layout, and a worksheet for turning measured boards into a complete cutting diagram.
+What to buy, proposed rough blanks, finished dimensions, complete example layouts for cherry, legs, and dovetailed-drawer stock, plus a blank actual-board inventory.
 
 ### [Original Popular Woodworking PDF](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf)
 

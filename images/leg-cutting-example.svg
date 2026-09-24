@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="leg-cutting-example.svg">
+<rect width="100%" height="100%" fill="#fffdf8"/>
+<text x="34" y="32" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#263d38" text-anchor="start">LEG BOARD | FOUR LEGS FROM THICK CHERRY</text>
+<text x="34" y="61" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#263d38" text-anchor="start">Example 8/4 cherry; assumed actual 1 3/4 x 8 x 32 in. Grain selection controls yield.</text>
+<rect x="34" y="81" width="1120" height="48" fill="#eee9df" stroke="#806447" stroke-width="1.5"/>
+<rect x="34" y="81" width="35.0" height="48" fill="#c8c8c2" stroke="#806447" stroke-width="1.5"/>
+<rect x="69.0" y="81" width="1015.0" height="48" fill="#e6c7a5" stroke="#806447" stroke-width="1.5"/>
+<text x="576.5" y="111" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#263d38" text-anchor="middle">29-IN-LONG LEG REGION</text>
+<rect x="1084.0" y="81" width="4.375" height="48" fill="#aa4c3c" stroke="#806447" stroke-width="1.5"/>
+<rect x="1088.375" y="81" width="30.625" height="48" fill="#dce7df" stroke="#806447" stroke-width="1.5"/>
+<rect x="1119.0" y="81" width="35.0" height="48" fill="#c8c8c2" stroke="#806447" stroke-width="1.5"/>
+<text x="34" y="155" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263d38" text-anchor="start">Length 32 in  |  board width 8 in  |  grain runs left to right  &gt;</text>
+<text x="34" y="183" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#263d38" text-anchor="start">Across its 8-in width: four 1 3/4-in lanes + four 1/8 kerfs + two 1/4 edge reserves.</text>
+<rect x="34" y="204" width="80" height="80" fill="#e6c7a5" stroke="#806447" stroke-width="1.5"/>
+<rect x="42" y="212" width="64" height="64" fill="#fffdf8" stroke="#806447" stroke-width="1.5"/>
+<line x1="42" y1="276" x2="106" y2="212" stroke="#806447" stroke-width="2"/>
+<text x="74" y="248" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#263d38" text-anchor="middle">Leg 1</text>
+<rect x="141" y="204" width="80" height="80" fill="#e6c7a5" stroke="#806447" stroke-width="1.5"/>
+<rect x="149" y="212" width="64" height="64" fill="#fffdf8" stroke="#806447" stroke-width="1.5"/>
+<line x1="149" y1="276" x2="213" y2="212" stroke="#806447" stroke-width="2"/>
+<text x="181" y="248" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#263d38" text-anchor="middle">Leg 2</text>
+<rect x="248" y="204" width="80" height="80" fill="#e6c7a5" stroke="#806447" stroke-width="1.5"/>
+<rect x="256" y="212" width="64" height="64" fill="#fffdf8" stroke="#806447" stroke-width="1.5"/>
+<line x1="256" y1="276" x2="320" y2="212" stroke="#806447" stroke-width="2"/>
+<text x="288" y="248" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#263d38" text-anchor="middle">Leg 3</text>
+<rect x="355" y="204" width="80" height="80" fill="#e6c7a5" stroke="#806447" stroke-width="1.5"/>
+<rect x="363" y="212" width="64" height="64" fill="#fffdf8" stroke="#806447" stroke-width="1.5"/>
+<line x1="363" y1="276" x2="427" y2="212" stroke="#806447" stroke-width="2"/>
+<text x="395" y="248" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#263d38" text-anchor="middle">Leg 4</text>
+<text x="486" y="220" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263d38" text-anchor="start">End-grain check: fit a 1 3/8-in-square template inside</text>
+<text x="486" y="246" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263d38" text-anchor="start">each lane with rings roughly corner to corner. Rotation</text>
+<text x="486" y="272" font-family="Arial, sans-serif" font-size="18" font-weight="400" fill="#263d38" text-anchor="start">may need more stock. Finish: 1 1/8 x 1 1/8 x 26 3/4.</text>
+<text x="486" y="295" font-family="Arial, sans-serif" font-size="17" font-weight="400" fill="#263d38" text-anchor="start">Length: 1-in end reserves + 29 + 1/8 kerf + 7/8 remainder.</text>
+</svg>
