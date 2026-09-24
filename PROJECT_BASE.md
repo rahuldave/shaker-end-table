@@ -149,9 +149,10 @@ Update this table whenever the class or project owner settles a choice.
 | Finish | Boiled linseed oil plus satin lacquer | Baseline; confirm class finish rules | 2026-09-20 |
 | Knob | Cherry Shaker-style knob, approximately 7/8 in, 3/8-in tenon | Baseline | 2026-09-20 |
 | Cutting-diagram format | Separate purchase stock, proposed rough blanks, and article finished parts in [the lumber plan](CUTTING_DIAGRAM.md) | Planning page added; actual board inventory pending | 2026-09-23 |
+| Leg-stock purchase alternatives | Suitable solid cherry square stock or individual leg blanks may replace the wide 8/4 LEG board; finished legs stay 1 1/8 x 1 1/8 x 26 3/4 in | Alternative requested; supplier availability, grain, actual sizes and class milling allowances unconfirmed | 2026-09-24 |
 | Rough allowances and complete stock layout | Four hypothetical source-board layouts cover all parts and test reserves; three-piece top retained | Proposal only; check actual boards, grain, milling loss, and class requirements | 2026-09-24 |
 | Drawer rough stock after dovetail choice | Back blank increased to 4 x 14 in; bottom uses two 7 1/4 x 14-in strips for a roughly 14 x 14-in panel | Larger rough reserves preserve joint/bottom choices; affects drawer back, bottom, grooves and fit; finished sizes to be measured | 2026-09-24 |
-| Printed class handouts | Two separate two-page PDFs; blank actual-board inventory; source joinery cutaway in both | Local print material only; excluded from website | 2026-09-24 |
+| Printed class handouts | Two main two-page PDFs plus a separate square-stock cutting alternative; blank inventory and source joinery cutaway | Local print material only; excluded from website | 2026-09-24 |
 | Drawer stock preparation | Prefer usable surfaced 1/2-in poplar or plane thicker stock; resawing remains optional | Recommendation; instructor and stock confirmation pending | 2026-09-23 |
 
 ## Measurement record

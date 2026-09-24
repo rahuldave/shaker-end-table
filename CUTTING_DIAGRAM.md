@@ -8,13 +8,13 @@ permalink: /cutting-diagram.html
 
 **Start with the parts we must obtain, then lay them onto measured boards.** Reserve attractive wood for the top and drawer front, select the legs for grain, and use the remaining suitable stock for the smaller parts.
 
-**Status: complete worked planning example, 2026-09-24.** Hand-cut dovetails are the current drawer choice. No actual board inventory or instructor-approved cutting layout is recorded yet. The rough sizes below are proposals; the four illustrated boards are hypothetical, not stock known to be available. Confirm the layout and machine work with the instructor before cutting.
+**Status: complete worked planning example, 2026-09-24.** Hand-cut dovetails are the current drawer choice. No actual board inventory or instructor-approved cutting layout is recorded yet. The rough sizes below are proposals; the illustrated stock sizes are hypothetical, not stock known to be available. Square-stock availability has not been checked with a supplier. Confirm the layout and machine work with the instructor before cutting.
 
 This page separates [what to buy](#what-to-buy), [rough blanks](#rough-blanks-to-prepare), and [finished parts](#finished-parts-from-the-article). All three-dimensional sizes use **thickness x width x length, in inches**. Nominal `4/4` and `8/4` describe purchase categories only.
 
 ## Recommended approach
 
-1. **Select leg stock separately.** Start with the article's 8/4 cherry and find four straight-grained leg locations using its 1 3/8-in-square end-grain template. Reserve an optional fifth leg blank if the selected board permits it. Grain orientation can consume more width and thickness than a simple row of squares suggests.
+1. **Select leg stock separately.** Ask about suitable solid cherry square stock or individual leg blanks as well as the article's 8/4 board method. See the [square-stock alternative](#alternative-square-cherry-stock-for-the-legs). For the board method, find four straight-grained leg locations using the 1 3/8-in-square end-grain template. Reserve an optional fifth leg blank if the selected board permits it. Grain orientation can consume more width and thickness than a simple row of squares suggests.
 2. **Reserve the top and drawer front before allocating aprons.** Try two or three wider, visually compatible top boards; let their appearance and usable widths determine the seams. The top example below uses three pieces. It is not a requirement to rip every top into equal strips.
 3. **Plan the aprons, rails, and internal pieces next.** Keep the side aprons visually compatible. Sound but less attractive wood can supply guides and spacers. Do not count an offcut twice or assume an unidentified scrap will supply a required part.
 4. **Reserve drawer material now; fit it later.** Keep the drawer front oversized and hold final drawer cuts until the dovetail and bottom details are confirmed, the base and guides are assembled, and the top is installed.
@@ -34,7 +34,7 @@ This is a **stock-selection brief**, not a fixed order by board feet. Board coun
 
 | Stock group | Purchase category to inspect | Required yield and selection priorities |
 |---|---|---|
-| Leg stock | 8/4 cherry, as in the article | Four clear, straight-grained leg blanks; an optional spare and separate setup material. Test the template against actual thickness, grain, and defects. |
+| Leg stock | Suitable solid cherry square stock / individual leg blanks, **or** 8/4 cherry as in the article | Four clear, straight-grained leg blanks; an optional spare and separate setup material. Test the template against actual thickness, grain, and defects. |
 | Top stock | 4/4 cherry that will finish flat at 3/4 in | Matching pieces for a panel at least 19 x 19 in **after edge jointing**, before final trimming to 18 x 18 in. Prefer compatible pieces from one board when possible. |
 | Remaining cherry | 4/4 cherry that will finish flat at 3/4 in | Three aprons, two rails, four guides, one drawer front, spacer stock, and practice pieces. Reserve the drawer front for appearance before allocating these boards. |
 | Drawer secondary wood | Poplar surfaced to a usable, flat 1/2 in, or thicker stock to plane to 1/2 in | Two sides, one back, and a solid bottom panel, plus test stock. A glued bottom panel avoids requiring a single very wide board. |
@@ -43,7 +43,7 @@ This is a **stock-selection brief**, not a fixed order by board feet. Board coun
 
 No substitution of plywood, species, joints, or finished dimensions is assumed here. A different bottom or drawer joint would require revisiting the drawer front, sides, back, grooves, and bottom dimensions together.
 
-**Which board is thicker?** C1 and C2 are ordinary 4/4 cherry for the parts that finish at 3/4 in. The legs require a **separate 8/4 cherry board**, labeled LEG below, because they finish at 1 1/8 in square and need extra stock for grain selection. "Secondary wood" means the poplar inside the drawer; it does not mean the second cherry board.
+**Which board is thicker?** C1 and C2 are ordinary 4/4 cherry for the parts that finish at 3/4 in. The legs require thicker material because they finish at 1 1/8 in square. Choose **solid cherry square stock or individual leg blanks**, or the **separate 8/4 cherry board** labeled LEG below. The wide board gives more freedom to orient the grain; square blanks must already have suitable grain within their available cross-section. "Secondary wood" means the poplar inside the drawer; it does not mean the second cherry board.
 
 ### How much wood?
 
@@ -59,7 +59,7 @@ First prove that the selected boards yield every rough blank, allowances, and pr
 
 | ID | Qty. | Part or reserved blank | Rough thickness | Rough width | Rough length |
 |---|---:|---|---|---:|---:|
-| L1-L4 | 4 | Legs after grain-oriented extraction | 1 3/8 | 1 3/8 | 29 |
+| L1-L4 | 4 | Legs from square stock or grain-oriented board extraction | 1 3/8 | 1 3/8 | 29 |
 | L5 | Optional 1 | Spare leg | 1 3/8 | 1 3/8 | 29 |
 | T1-T3 | Example 3 | Top pieces | Keep stock thickness | 6 3/4 each | 21 each |
 | A1-A3 | 3 | Side and rear aprons | Keep stock thickness | 5 1/2 | 14 |
@@ -139,6 +139,25 @@ The length check is `1 + 29 + 1/8 + 7/8 + 1 = 32`. The broad-face width check is
 
 **This yield depends on grain.** The diagram assumes the template fits within each lane and the measured thickness. If rotating it to align the growth rings makes it protrude, choose wider/thicker stock or a different layout. Four rectangles on a face do not prove four good legs. An optional fifth leg requires extra confirmed stock. Label outside faces; only the two inside faces are tapered after the joinery is fitted. Angled extraction and tapering require the instructor's setup and workholding.
 
+### Alternative: square cherry stock for the legs
+
+This replaces the wide **LEG** board in the worked example. Cherry boards C1 and C2 and poplar board P1 still supply all the other parts exactly as drawn above and below. This is a proposed purchase option; supplier availability, actual dimensions, drying condition, straightness, and grain must be checked before buying.
+
+**Required yield:** four finished legs, each **1 1/8 x 1 1/8 x 26 3/4 in**, in thickness x width x length order. Our proposed rough reserve remains **1 3/8 x 1 3/8 x 29 in** per leg. The larger purchased square sizes below are examples, not a claim that a dealer stocks them. Already flat, square stock may need different allowances; confirm its usable size with the instructor.
+
+| Choose one purchase form | Example actual thickness x width x length (in) | Yield and allowances |
+|---|---|---|
+| Two long solid cherry square sticks | 1 1/2 x 1 1/2 x 72 each | Each supplies two 29-in rough legs, two 1/8-in kerfs, two 1-in end reserves, and an 11 3/4-in remainder |
+| Four individual solid cherry leg blanks | 1 1/2 x 1 1/2 x 36 each | Each supplies one 29-in rough leg, one 1/8-in kerf, two 1-in end reserves, and a 4 7/8-in remainder |
+
+![Alternative cutting layout: two square cherry sticks supply all four legs](images/leg-square-stock-example.svg)
+
+**Choose either the two sticks or the four blanks, not both.** Neither option needs the wide LEG board. Each has 2.25 board feet of actual square-stock volume in this example; with C1, C2, and P1, the complete square-stock example totals about **15.08 actual board feet**. Dealers may price squares by the piece or length and may tally nominal sizes. Compare the actual purchase price rather than assuming that lower volume means lower cost.
+
+Inspect grain along all four faces and the full intended 29-in region. Prefer clear, straight grain, with growth rings running roughly corner to corner at the ends. A square cross-section alone does not guarantee suitable leg grain. At the example 1 1/2-in size, there is little room to rotate a 1 3/8-in rough blank to correct unsuitable grain; select different stock if necessary. Confirm whether the offered stock is solid rather than glued from smaller pieces, to preserve the article's solid-cherry baseline.
+
+Mill the squares to the chosen rough reserve and then to **1 1/8 in square**, allowing for any movement or cleanup that the actual stock needs. The mortises, rail joints, overall leg length, inside-face tapers, finished table height and base dimensions retain the article baselines. This changes the source of the leg wood, not the design. Confirm supported workholding and machine minimums with the instructor. Keep square-stock practice material at a safe working length; leave reserves attached or obtain longer stock if required. An optional spare leg requires additional confirmed stock.
+
 ### P1: the dovetailed drawer and its bottom
 
 ![Poplar source layout for both drawer sides, back, and two bottom strips](images/drawer-cutting-example.svg)
@@ -209,4 +228,4 @@ For each board, the final diagram should show the board ID, measured outline, gr
 
 ## Source and decisions
 
-Based on Christopher Schwarz, "Simple Shaker End Table," *Woodworking Magazine*, Autumn 2004, printed pages 16-21, and David Thiel's companion articles on panels and rabbeted drawers. [Original publisher PDF](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf). The four new diagrams and rough allowances are project planning aids, not illustrations or dimensions claimed to come from the article. See [attribution](ATTRIBUTION.md) and [current decisions](PROJECT_BASE.md#current-decisions).
+Based on Christopher Schwarz, "Simple Shaker End Table," *Woodworking Magazine*, Autumn 2004, printed pages 16-21, and David Thiel's companion articles on panels and rabbeted drawers. [Original publisher PDF](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf). The complete layouts, square-stock alternative, and rough allowances are project planning aids, not illustrations or dimensions claimed to come from the article. See [attribution](ATTRIBUTION.md) and [current decisions](PROJECT_BASE.md#current-decisions).
