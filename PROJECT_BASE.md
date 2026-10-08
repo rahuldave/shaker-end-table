@@ -19,6 +19,8 @@ This is the working reference for the woodworking class project. It summarizes t
 
 The text below is a workshop summary, not a transcription. Verify critical dimensions against the dimensioned drawing and class instructions before cutting.
 
+**Instructor reading added 2026-10-08:** [Carl's Wisdom](CARLS_WISDOM.md) organizes Carl Spagnoli's 2026-09-23 class email and annotated Woodsmith comparison plan. His notes encourage four aprons without a drawer and purchased square leg stock for beginners. They support those simplifications; the exact front-corner mortise layout remains for instructor review. See [Tapering the Legs](CARLS_WISDOM_TAPERING.md) for source diagrams and his explicit restriction against beginners independently using the Woodsmith jointer-tapering method.
+
 ![Finished Shaker end table from the source article](images/finished-table.png)
 
 ## Original article design baseline
@@ -107,6 +109,8 @@ The new front apron matches the side and rear aprons: 3/4 x 5 x 12 1/2 in, inclu
 
 The taper begins 1 in below the bottom edge of the aprons and ends at a 5/8-in-square foot. Taper only the two inside faces of each leg. The article bandsaws or jigsaws near the line, then cleans the surface with a hand plane or jointer.
 
+The [dedicated taper reference](CARLS_WISDOM_TAPERING.md) separates hand-plane refinement from Woodsmith's four-face table-saw jig and advanced jointer method. Carl's annotated attachment marks jointer tapering as unsuitable for beginners; choose and demonstrate the method in class before cutting our legs.
+
 ![Laying out, sawing, and refining the leg tapers](images/leg-tapering.jpg)
 
 **Checkpoint:** Lay out all four legs as a set and compare the marks before cutting. Preserve the labeled outside faces.
@@ -139,6 +143,7 @@ Update this table whenever the class or project owner settles a choice.
 
 | Decision | Current position | Status | Last updated |
 |---|---|---|---|
+| Instructor notes and taper-method boundary | Carl's 2026-09-23 email supports a four-apron/no-drawer beginner build and square leg stock; its Woodsmith attachment marks jointer tapering as unsuitable for beginners | Reading indexed on the website; exact front mortises, adapted jig if used, and taper method still require instructor direction. No finished dimension or finish changed | 2026-10-08 |
 | Wood throughout | Poplar for the entire table, including the legs | Confirmed by project owner; replaces cherry and the primary/secondary wood split | 2026-10-08 |
 | Drawer | Omitted to simplify the build | Owner decision; supersedes the 2026-09-24 hand-cut dovetail choice and all drawer stock reservations | 2026-10-08 |
 | Base joinery | Four matching aprons with the source rear-corner mortise-and-tenon joint; new front apron 3/4 x 5 x 12 1/2 in | Proposed adaptation for instructor review; affects both front legs' mortises and removes the two rails and their joints | 2026-10-08 |

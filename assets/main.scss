@@ -1,0 +1,40 @@
+---
+---
+@import "minima";
+
+.wrapper { max-width: 940px; }
+@media screen and (min-width: 601px) {
+  .site-header .wrapper { padding-bottom: .8rem; }
+  .site-title { float: none; display: block; }
+  .site-nav { float: none; line-height: 1.8; }
+}
+.wisdom-page { max-width: 50rem; }
+.wisdom-breadcrumb { font-size: .95rem; margin: 0 0 1.5rem; }
+.wisdom-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: 1.5rem 0 2rem; }
+.wisdom-card { border: 1px solid #b6c5cf; border-top: 4px solid #2d5870; padding: 1.15rem; background: #f5f8fa; }
+.wisdom-card h2 { margin: 0 0 .5rem; font-size: 1.25rem; }
+.wisdom-card p { margin: 0; }
+.wisdom-note { border-left: 4px solid #2d5870; padding: .8rem 1rem; background: #eef4f7; margin: 1.5rem 0; }
+.wisdom-caution { border-left-color: #9e3f24; background: #fff3eb; }
+.wisdom-toc { padding: 1rem 1.25rem; border: 1px solid #c9d2d8; margin: 1.5rem 0 2rem; }
+.wisdom-toc ul { margin-bottom: 0; }
+.wisdom-source { color: #46545e; font-size: .9rem; }
+.wisdom-footer { margin-top: 2.5rem; padding-top: 1.2rem; border-top: 1px solid #b6c5cf; }
+.wisdom-footer ul { display: flex; flex-wrap: wrap; gap: .5rem 1.2rem; list-style: none; margin: .8rem 0; }
+.wisdom-figures { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem; }
+.wisdom-figures figure { margin: 0; }
+figure figcaption { font-size: .95rem; margin-top: .65rem; }
+.wisdom-page blockquote { font-size: 1.08rem; letter-spacing: normal; color: #344a59; }
+.wisdom-page h2 { margin-top: 2rem; }
+table { display: block; overflow-x: auto; }
+img { height: auto; }
+:target { scroll-margin-top: 1.25rem; }
+@media screen and (max-width: 600px) {
+  .wisdom-grid, .wisdom-figures { grid-template-columns: 1fr; }
+  .wisdom-page h1 { font-size: 1.9rem; }
+  .wisdom-card { padding: 1rem; }
+}
+@media print {
+  .wisdom-footer, .wisdom-breadcrumb, .site-header, .site-footer { display: none; }
+  .wisdom-card, figure, .wisdom-note { break-inside: avoid; }
+}

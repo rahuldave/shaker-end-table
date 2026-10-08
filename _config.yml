@@ -1,5 +1,5 @@
 title: Simple Shaker End Table
-description: An illustrated project guide and plain-language woodworking glossary for a Shaker end table class project.
+description: An illustrated Shaker end table class reference, with cutting plans, woodworking terminology, and Carl Spagnoli's teaching notes and reading recommendations.
 url: https://rahuldave.com
 baseurl: /shaker-end-table
 theme: minima
@@ -15,6 +15,23 @@ header_pages:
   - PROJECT_BASE.md
   - LUMBER_AND_WOODWORKING_TERMINOLOGY.md
   - CUTTING_DIAGRAM.md
+  - CARLS_WISDOM.md
+
+wisdom_topics:
+  - topic: Shaker Table
+    url: /carls-wisdom/shaker-table/
+  - topic: Tapering the Legs
+    url: /carls-wisdom/tapering-the-legs/
+  - topic: Wood and Buying
+    url: /carls-wisdom/wood-and-buying/
+  - topic: Shop Practice
+    url: /carls-wisdom/shop-practice/
+  - topic: Books
+    url: /carls-wisdom/books/
+  - topic: Beyond the Bench
+    url: /carls-wisdom/beyond-the-bench/
+  - topic: Sources and Link Index
+    url: /carls-wisdom/sources/
 
 exclude:
   - AGENTS.md

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<nav class="wisdom-breadcrumb" aria-label="Breadcrumb">
+  <a href="{{ '/' | relative_url }}">Home</a>
+  <span aria-hidden="true"> / </span>
+  <a href="{{ '/carls-wisdom/' | relative_url }}">Carl's Wisdom</a>
+  <span aria-hidden="true"> / </span>
+  <span>{{ page.topic }}</span>
+</nav>
+<article class="wisdom-page">
+  {{ content }}
+</article>
+<nav class="wisdom-footer" aria-label="Carl's Wisdom topics">
+  <strong>Keep reading Carl's Wisdom</strong>
+  <ul>
+    {% for item in site.wisdom_topics %}
+      <li>{% if item.topic == page.topic %}<span aria-current="page">{{ item.topic }}</span>{% else %}<a href="{{ item.url | relative_url }}">{{ item.topic }}</a>{% endif %}</li>
+    {% endfor %}
+  </ul>
+  <p><a href="{{ '/carls-wisdom/' | relative_url }}">All topics and reading order</a></p>
+</nav>

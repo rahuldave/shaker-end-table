@@ -11,6 +11,19 @@ An illustrated, beginner-friendly reference for building Christopher Schwarz's *
 
 ## Project references
 
+### [Carl's Wisdom](CARLS_WISDOM.md)
+
+Carl Spagnoli's class notes, organized by topic with source quotations and clear reading paths:
+
+- [Shaker Table](CARLS_WISDOM_SHAKER_TABLE.md) — plans, simplifications, and the cut-list homework
+- [Tapering the Legs](CARLS_WISDOM_TAPERING.md) — our two-face taper, hand-plane refinement, and selected Woodsmith diagrams
+- [Wood and Buying](CARLS_WISDOM_WOOD.md) — poplar, square stock, flatness, wood movement, and suppliers
+- [Shop Practice](CARLS_WISDOM_SHOP.md) — workholding, test pieces, attention, and class preparation
+- [Books](CARLS_WISDOM_BOOKS.md) — Carl's favorites and what to read for this table
+- [Beyond the Bench](CARLS_WISDOM_BEYOND.md) — reverie, makers, poetry, and wider reading
+
+The [topic index](CARLS_WISDOM.md) and [source index](CARLS_WISDOM_SOURCES.md) keep the collection easy to browse.
+
 ### [Illustrated project guide](PROJECT_BASE.md)
 
 The archival article cut list and drawing, current drawer-free build sequence, joinery photographs, decision log and actual-measurement record.

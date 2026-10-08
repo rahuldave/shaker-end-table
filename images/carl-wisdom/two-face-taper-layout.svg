@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc">
+<title id="title">Our Shaker table leg: taper the two inside faces only</title>
+<desc id="desc">Side elevation: 26 3/4 inch leg with a taper starting one inch below the apron. End view: a 5/8 inch square foot at the outside corner of the original 1 1/8 inch square. Two adjacent inside faces are reduced. Not to scale.</desc>
+<defs><pattern id="waste" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><rect width="10" height="10" fill="#fbe9e3"/><path d="M0 0V10" stroke="#cb8a74" stroke-width="2"/></pattern><marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#344f60"/></marker><style>text{font-family:Arial,sans-serif;fill:#203b4c;font-size:20px}.heading{font-size:25px;font-weight:bold}.small{font-size:18px}.dim{fill:none;stroke:#344f60;stroke-width:1.5;marker-start:url(#arrow);marker-end:url(#arrow)}.lead{fill:none;stroke:#344f60;stroke-width:1.5}</style></defs>
+<rect width="1000" height="640" rx="8" fill="#f6f9fb"/>
+<text x="38" y="43" class="heading">Two inside faces taper. Keep the outside corner.</text>
+<text x="38" y="74" class="small">Schwarz design targets • verify against fitted aprons • not to scale</text>
+<text x="120" y="120" font-weight="bold">SIDE VIEW</text>
+<rect x="156" y="145" width="80" height="418" fill="#edf0f1" stroke="#8d9ca5" stroke-dasharray="5 5"/>
+<path d="M156 145H236V270L201 563H156Z" fill="#d8e5ec" stroke="#294e65" stroke-width="3"/><path d="M236 270V563H201Z" fill="url(#waste)"/><path d="M156 270H236" stroke="#294e65" stroke-width="2" stroke-dasharray="5 4"/>
+<rect x="236" y="145" width="135" height="97" fill="#c3d2dd" stroke="#294e65" stroke-width="2"/><text x="260" y="198">Apron</text>
+<path d="M257 242V270" class="dim"/><text x="276" y="264" class="small">1 in below apron</text>
+<path d="M95 145V563" class="dim"/><text x="72" y="423" transform="rotate(-90 72 423)">26 3/4 in leg</text>
+<path d="M156 586H201" class="dim"/><text x="147" y="616" class="small">5/8 in</text>
+<text x="264" y="315" class="small">Taper starts here</text><path d="M259 307L234 272" class="lead"/>
+<text x="265" y="402" class="small">Remove a wedge</text><text x="265" y="427" class="small">from this inside face.</text><path d="M259 409L223 435" class="lead"/>
+<text x="265" y="502" class="small">Repeat on the adjacent</text><text x="265" y="527" class="small">inside face only.</text>
+<text x="585" y="120" font-weight="bold">LOOKING AT THE FOOT</text>
+<path d="M606 194H822V410H606Z" fill="url(#waste)" stroke="#8d9ca5" stroke-width="2" stroke-dasharray="5 5"/>
+<rect x="606" y="194" width="120" height="120" fill="#d8e5ec" stroke="#294e65" stroke-width="3"/><path d="M606 194V314M606 194H726" stroke="#1b6272" stroke-width="7"/>
+<text x="618" y="246" class="small">Finished</text><text x="628" y="273" class="small">5/8 in</text><text x="635" y="298" class="small">square</text>
+<path d="M606 157H822" class="dim"/><text x="668" y="145" class="small">1 1/8 in</text>
+<path d="M855 194V410" class="dim"/><text x="886" y="265" class="small">1 1/8</text><text x="886" y="289" class="small">in</text>
+<path d="M726 435H822" class="dim"/><text x="747" y="465" class="small">1/2 in</text>
+<text x="590" y="504" class="small">Blue edges: outside faces stay straight.</text><text x="590" y="534" class="small">Hatched area: waste at the foot.</text><text x="590" y="564" class="small">Remove 1/2 in from each inside face.</text><text x="590" y="609" class="small">Project diagram • Schwarz (2004)</text>
+</svg>
