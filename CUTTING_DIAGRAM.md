@@ -4,228 +4,134 @@ title: Cutting diagram and lumber plan
 permalink: /cutting-diagram.html
 ---
 
-# Cutting diagram and lumber plan
+# Cutting diagram for the purchased poplar
 
-**Start with the parts we must obtain, then lay them onto measured boards.** Reserve attractive wood for the top and drawer front, select the legs for grain, and use the remaining suitable stock for the smaller parts.
+**Current build, 2026-10-08: poplar throughout, square-stock legs, no drawer.** This layout uses the two approximately 5-ft boards and four 30-in leg blanks already purchased. It includes every wooden part for the revised table, plus the jointing and planing needed to bring the stock to size.
 
-**Status: complete worked planning example, 2026-09-24.** Hand-cut dovetails are the current drawer choice. No actual board inventory or instructor-approved cutting layout is recorded yet. The rough sizes below are proposals; the illustrated stock sizes are hypothetical, not stock known to be available. Square-stock availability has not been checked with a supplier. Confirm the layout and machine work with the instructor before cutting.
+The flat boards are recalled as **1x8**, not yet measured. The layout fits the reported lengths if the width, thickness, defects and milling checks below pass. The shop has a jointer and planer; have the instructor set the milling sequence and permitted workpiece sizes before breaking the boards into short sections.
 
-This page separates [what to buy](#what-to-buy), [rough blanks](#rough-blanks-to-prepare), and [finished parts](#finished-parts-from-the-article). All three-dimensional sizes use **thickness x width x length, in inches**. Nominal `4/4` and `8/4` describe purchase categories only.
+All three-dimensional sizes are **thickness x width x length, in inches**. Two-dimensional rough sizes are explicitly labeled **width x length**. The [project decision log](PROJECT_BASE.md#current-decisions) records the changes. Earlier hypothetical cherry-and-drawer layouts remain in the [September examples](CUTTING_DIAGRAM_2026-09-24.md).
 
-## Recommended approach
+## The whole table
 
-1. **Select leg stock separately.** Ask about suitable solid cherry square stock or individual leg blanks as well as the article's 8/4 board method. See the [square-stock alternative](#alternative-square-cherry-stock-for-the-legs). For the board method, find four straight-grained leg locations using the 1 3/8-in-square end-grain template. Reserve an optional fifth leg blank if the selected board permits it. Grain orientation can consume more width and thickness than a simple row of squares suggests.
-2. **Reserve the top and drawer front before allocating aprons.** Try two or three wider, visually compatible top boards; let their appearance and usable widths determine the seams. The top example below uses three pieces. It is not a requirement to rip every top into equal strips.
-3. **Plan the aprons, rails, and internal pieces next.** Keep the side aprons visually compatible. Sound but less attractive wood can supply guides and spacers. Do not count an offcut twice or assume an unidentified scrap will supply a required part.
-4. **Reserve drawer material now; fit it later.** Keep the drawer front oversized and hold final drawer cuts until the dovetail and bottom details are confirmed, the base and guides are assembled, and the top is installed.
-5. **Label practice stock as part of the layout.** Reserve matching-thickness material for joinery setups and cherry samples for finish trials before calling the remaining wood waste.
+![Whole poplar table with a drawing cutaway revealing the four aprons and two top cleats](images/whole-poplar-table-cutaway.svg)
 
-These priorities follow Schwarz's stock selection on [PDF pages 1-2](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf#page=1), the panel companion on [pages 7-8](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf#page=7), and the drawer sequence on [page 6](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf#page=6).
+The center of the tabletop is hidden only in this drawing so the supports can be seen. The finished tabletop is a complete solid 18 x 18-in panel. Green strips are the two top cleats.
 
-## The table and its joinery
+## What changes when the drawer is omitted
 
-![Dimensioned Shaker end table with its leg, apron and rail joinery cutaway](images/dimensioned-plan.png)
+Use **four matching aprons**: left, right, rear and a new full-width front apron. The proposed front repeats the original rear-apron joint, subject to the instructor checking the layout. The finished top stays 3/4 x 18 x 18 in, height about 27 1/2 in, and base footprint about 14 x 14 in.
 
-Two side aprons and one rear apron connect the legs; the front has two narrow rails around the drawer opening. Source drawing: Christopher Schwarz, *Woodworking Magazine*, Autumn 2004, [PDF page 4](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf#page=4).
+- Add one 3/4 x 5 x 12 1/2-in front apron, including its two 3/8-in-long tenons.
+- Both front legs now receive apron mortises on two adjacent inside faces, like the rear legs. Omit the former front-rail mortises and dovetail sockets.
+- Omit both narrow front rails, the entire drawer, the two lower guides, both spacers and the knob.
+- Retain two original upper-guide pieces as **top cleats**: strips inside the side aprons for attaching the tabletop with slotted screw holes.
+- Retain the two inside-face leg tapers and the original top bevel. Test the finish on poplar before choosing the class finish schedule.
 
-## What to buy
+![Original rear-corner cutaway showing apron tenons, leg mortises and setback](images/mortise-tenon-corner.png)
 
-This is a **stock-selection brief**, not a fixed order by board feet. Board count and purchase lengths remain open until available boards pass the layout check.
+The rear-corner detail above is from Christopher Schwarz's source drawing, [PDF page 4](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf#page=4). Repeating this joint at the front is our drawer-free adaptation. Its 3/8-in-thick, 3/8-in-long apron tenons and 3/16-in apron setback remain the reference; fit tenons to the actual mortises.
 
-| Stock group | Purchase category to inspect | Required yield and selection priorities |
+## Purchased stock
+
+| Piece | Reported purchase size | What must be measured |
 |---|---|---|
-| Leg stock | Suitable solid cherry square stock / individual leg blanks, **or** 8/4 cherry as in the article | Four clear, straight-grained leg blanks; an optional spare and separate setup material. Test the template against actual thickness, grain, and defects. |
-| Top stock | 4/4 cherry that will finish flat at 3/4 in | Matching pieces for a panel at least 19 x 19 in **after edge jointing**, before final trimming to 18 x 18 in. Prefer compatible pieces from one board when possible. |
-| Remaining cherry | 4/4 cherry that will finish flat at 3/4 in | Three aprons, two rails, four guides, one drawer front, spacer stock, and practice pieces. Reserve the drawer front for appearance before allocating these boards. |
-| Drawer secondary wood | Poplar surfaced to a usable, flat 1/2 in, or thicker stock to plane to 1/2 in | Two sides, one back, and a solid bottom panel, plus test stock. A glued bottom panel avoids requiring a single very wide board. |
+| Poplar board 1 | About 60 in long; recalled as nominal 1x8 | Actual thickness, clear width, length, twist, cup, bow and end checks |
+| Poplar board 2 | About 60 in long; recalled as nominal 1x8 | Same checks; assign the sounder/longer board to the tighter board-2 layout |
+| Four poplar leg blanks | Each 1 1/2 x 1 1/2 x 30 in | Actual cross-section, clear length, straightness and grain on all faces |
+| Poplar square-stock remainder | From the original 1 1/2 x 1 1/2 x 168-in stick | Actual remaining length and usable grain; reserve for tests or a spare only after measuring |
 
-**Recommended drawer-stock approach:** buy flat stock at the required thickness when available, or plane suitable 4/4 poplar down to 1/2 in. Keep resawing optional until the instructor confirms the stock and equipment. A board actually 1 in thick cannot yield two finished 1/2-in layers: those layers alone use the entire thickness, leaving nothing for the resaw kerf or flattening. Even thicker stock needs a measured yield check.
+The flat stock began as one 10-ft board cut into two pieces by the dealer. The cut removes some length, so both pieces may be slightly under 60 in. The square-stock arithmetic is `168 - (4 x 30) = 48 in` **before dealer kerfs and trimming**; it is not a measured 48-in remainder.
 
-No substitution of plywood, species, joints, or finished dimensions is assumed here. A different bottom or drawer joint would require revisiting the drawer front, sides, back, grooves, and bottom dimensions together.
+## Rough blanks and finished parts
 
-**Which board is thicker?** C1 and C2 are ordinary 4/4 cherry for the parts that finish at 3/4 in. The legs require thicker material because they finish at 1 1/8 in square. Choose **solid cherry square stock or individual leg blanks**, or the **separate 8/4 cherry board** labeled LEG below. The wide board gives more freedom to orient the grain; square blanks must already have suitable grain within their available cross-section. "Secondary wood" means the poplar inside the drawer; it does not mean the second cherry board.
+These rough allowances are revised to fit the purchased lengths. Top sections change from 21 to 19 in; apron and cleat sections change from 14 to 13 in. Finished design dimensions remain unchanged, except for the explicitly added front apron and omitted drawer components.
 
-### How much wood?
+| Qty. | Part and marking label | Proposed rough width x length (in) | Finished thickness x width x length (in) |
+|---:|---|---|---|
+| 4 | Legs 1-4 (L1-L4) | Keep the full purchased 30-in length while milling; start from the reported 1 1/2-in square | 1 1/8 x 1 1/8 x 26 3/4 |
+| 3 | Top strips 1-3 (T1-T3) | 6 3/4 x 19 each | Together form one 3/4 x 18 x 18 top |
+| 4 | Left, right, rear, front aprons (A1-A4) | 5 1/2 x 13 each | 3/4 x 5 x 12 1/2 each, including tenons |
+| 2 | Top cleats 1-2 (TC1-TC2) | 1 1/4 x 13 each | 3/4 x 1 x 12 1/8 each; fit/notch at the legs |
 
-The article says **about 12 board feet**. Treat that as its approximate project estimate, not a guaranteed purchase quantity or finished-volume calculation. Summing `quantity x thickness x width x length / 144` for its listed rectangular parts gives about **5.10 board feet**: 4.20 cherry and 0.90 poplar, before removing tapers, bevels, or joinery waste. Those rectangles cannot simply be packed into any 5.10 board feet of lumber.
+Keep the flat stock's purchased thickness until the milling plan is checked. It must yield flat 3/4-in parts; the top also needs allowance for final panel cleanup. The leg cross-section reduces from a reported 1 1/2 in to 1 1/8 in: **3/8 in total reduction in each cross-sectional dimension**, not 3/8 off every face. An intermediate 1 3/8-in square is optional if the actual stock and class sequence call for a rough-milling stage.
 
-First prove that the selected boards yield every rough blank, allowances, and practice pieces. Then total those boards using the supplier's tally rules. Add a specific spare board or blank if needed, with a stated purpose, rather than relying only on a blanket waste percentage.
+The letters are simply labels to write on the wood: **L = leg, T = top strip, A = apron, TC = top cleat**. There are no drawer-side or drawer-bottom labels in this build.
 
-## Rough blanks to prepare
+## Board 1 supplies two top strips and the left apron
 
-**Proposed planning allowances, not article dimensions or instructions to cut today.** Dimension order is **thickness x width x length, in inches**; the columns separate those dimensions explicitly. Increase the allowances if checks, twist, snipe, grain selection, or the class's machine minimums require it.
+![Purchased poplar board 1 with two top strips, left apron and top cleat 1](images/purchased-poplar-board-1.svg)
 
-"Keep stock thickness" means the actual purchased thickness is retained at rough breakdown; it does not mean a nominal 4/4 board measures exactly 1 in. Establish flat reference surfaces before final thicknessing. Keep small components in longer/wider parent stock while machining when required by the shop.
+At an actual 60-in length, the full allocation is:
 
-| ID | Qty. | Part or reserved blank | Rough thickness | Rough width | Rough length |
-|---|---:|---|---|---:|---:|
-| L1-L4 | 4 | Legs from square stock or grain-oriented board extraction | 1 3/8 | 1 3/8 | 29 |
-| L5 | Optional 1 | Spare leg | 1 3/8 | 1 3/8 | 29 |
-| T1-T3 | Example 3 | Top pieces | Keep stock thickness | 6 3/4 each | 21 each |
-| A1-A3 | 3 | Side and rear aprons | Keep stock thickness | 5 1/2 | 14 |
-| R1-R2 | 2 | Upper and lower front rails | Keep stock thickness | 1 | 15 |
-| G1-G4 | 4 | Drawer guides | Keep stock thickness | 1 1/4 | 14 |
-| SP | 1 | Parent stock for two thin spacers | Keep stock thickness | 3 | 16 |
-| DF | 1 | Drawer front, held oversized | Keep stock thickness | 4 | 14 |
-| DS1-DS2 | 2 | Drawer sides, held oversized | Keep stock thickness | 4 | 14 |
-| DB | 1 | Drawer back, held oversized for dovetail layout | Keep stock thickness | 4 | 14 |
-| DP1-DP2 | 2 strips | Drawer-bottom glue-up | Keep stock thickness | 7 1/4 each | 14 each |
-| TEST | Separate reserve | Joinery and finish samples | Match the parts being tested | Shop-safe size | Shop-safe size |
+`1 total end reserve + 19 + 19 + 13 + (3 x 1/8 kerf) + 7 5/8 reserve = 60 in`.
 
-For the top, three 6 3/4-in-wide rough pieces allow each to lose 1/4 in in total width during edge preparation and still form a 19 1/2-in-wide panel. They must also retain enough thickness to flatten the glued panel to 3/4 in. If they do not, change the board selection or layout before cutting.
+Rip **top cleat 1** from the strip beside the left apron. The 7 5/8-in remainder is a reserve, subject to actual board length and defects. It is not automatically long enough for a machine setup test.
 
-For the bottom, two rough 7 1/4 x 14-in strips can each lose 1/4 in of width in edge preparation and form a 14 x 14-in panel. This enlarges the earlier rough envelope to show a complete glue-up with fitting room. Orient its grain **side to side across the drawer**, so seasonal movement is front to back. Confirm the groove, edge treatment, and back clearance with the instructor; do not glue a solid bottom rigidly into all its grooves.
+## Board 2 supplies the last top strip and three aprons
 
-The spacer entry reserves a manageable parent piece. It is not a direction to feed loose 3/16-in strips through a planer. Prepare thin strips with instructor-approved support or secure them for hand-planing.
+![Purchased poplar board 2 with the last top strip, right rear and front aprons, and top cleat 2](images/purchased-poplar-board-2.svg)
 
-## Complete example: four source boards, every required wooden part
+At an actual 60-in length, the full allocation is:
 
-These are **worked examples to discuss at the store and with the instructor**, not a fixed purchase order. The article estimates about 12 board feet; this deliberately roomy example contains about **15.94 board feet of actual board volume** before cutting. Dealer billing may use nominal thickness and different rounding. Ask whether available boards and usable offcuts can provide the same blanks with less excess. Do not sacrifice leg grain, thickness, or test stock merely to match the article estimate.
+`1 total end reserve + 19 + 13 + 13 + 13 + (4 x 1/8 kerf) + 1/2 reserve = 60 in`.
 
-**Every example uses a 1/8-in separating saw kerf and a 1-in reserve at each board end.** End reserves include squaring cuts. Increase them for checks, snipe, or shop requirements. Broad-face layouts also need rip allowance, straightening loss, and sufficient thickness. A nominal 4/4 board is not guaranteed to measure 1 in or finish flat at 3/4 in.
+Rip **top cleat 2** from the strip beside the right apron. This layout needs **at least 59 1/2 in** with the stated 1/2-in reserve at each end, including squaring cuts. If the actual board is shorter than that, or requires more end cleanup, revise the layout with the instructor before cutting. Do not shorten the finished aprons to force a fit.
 
-| Example board | Assumed actual thickness x width x length (in) | Allocated parts | Reserved remainder |
-|---|---|---|---|
-| C1: 4/4 cherry | 1 x 8 x 96 | T1-T3 top, A1-A2 side aprons | 2 3/8 in of full width; other edge remnants uncounted |
-| C2: 4/4 cherry | 1 x 8 x 72 | A3 rear apron; DF drawer front; R1-R2 rails; G1-G4 guides; SP1-SP2 spacers | 10 5/8 in of full width, assigned TEST-C / spare |
-| LEG: 8/4 cherry | 1 3/4 x 8 x 32 | Four grain-selected legs L1-L4 | 7/8 in of full width; no spare leg assumed |
-| P1: surfaced poplar | 3/4 x 8 x 84 | DS1-DS2 sides; DB back; DP1-DP2 bottom strips | 11 3/8 in of full width, assigned TEST-P / spare |
+### Width thickness and saw-loss checks
 
-Example source-board labels C1, C2, LEG, and P1 are separate from part IDs. Give each real board its own label; all inventory entries below remain blank.
+- Both diagrams show **6 7/8 in of clear usable width after initial edge cleanup**. Each apron-and-cleat section uses `5 1/2 + 1/8 rip kerf + 1 1/4 = 6 7/8 in`. A top reservation uses 6 3/4 in plus a 1/8-in separating rip kerf.
+- Three rough 6 3/4-in top strips can each lose 1/4 in in total width to edge preparation, producing an approximately 19 1/2-in-wide glue-up. The 19-in rough length leaves 1 in total for final trimming to 18 in, including subsequent saw loss. Check for snipe and end defects within this allowance.
+- Aprons retain 1/2 in total extra width and 1/2 in total extra length. Cleats retain 1/4 in extra width and 7/8 in extra length. These are modest allowances; increase them if actual milling loss demands it and recheck the packing.
+- A nominal 1x8 may be about 3/4 x 7 1/4 in when surfaced, but the name alone does not establish these boards' measured size. If they are already 3/4 in thick and need flattening, the planer will take them below the article's target. Measure first; any thinner design needs a recorded revision to apron tenons, setbacks, cleats, top bevel, screw penetration and overall height.
+- **1/8 in is a planning saw kerf.** Measure the shop blade and recalculate if different. The gray end reserves include end-squaring saw loss; the red lines reserve the separating cuts. These are material allocations, not a required machine-cutting order.
 
-### What the part labels mean
+## The four purchased legs
 
-The letters are short labels to write on the wood. The number distinguishes pieces of the same kind. Each diagram also spells out the part name.
+![Four purchased poplar square leg blanks at 30 inches and their final size](images/purchased-leg-blanks-2026-10-08.svg)
 
-| Label | Plain-language meaning |
-|---|---|
-| L1-L4 | Leg 1 through leg 4 |
-| T1-T3 | Top strip 1 through top strip 3; glued into one tabletop |
-| A1, A2, A3 | Side apron 1, side apron 2, and rear apron |
-| R1, R2 | Upper front rail and lower front rail |
-| G1-G4 | Four drawer guides: two lower running surfaces and two upper guides |
-| SP1, SP2 | Spacer 1 and spacer 2 |
-| DF | Drawer front |
-| DS1, DS2 | Drawer side 1 and drawer side 2 |
-| DB | Drawer back |
-| DP1, DP2 | Drawer-bottom strip 1 and strip 2; glued into one bottom panel |
-| TEST-C, TEST-P | Cherry and poplar reserved for practice/setup cuts |
+Keep each blank at its full 30-in length during inspection and initial milling. Joint and plane square with the instructor's workholding to reach **1 1/8 x 1 1/8 in**. The final 26 3/4-in length leaves **3 1/4 in total** for trimming and saw loss. Do not add the old diagram's two 1-in end reserves around a 29-in blank; that would exceed the wood now available.
 
-The **source-board labels** are different: C1 and C2 mean cherry boards 1 and 2; LEG is the separate thick cherry board for the legs; P1 is poplar board 1.
+Label each leg and its two outside faces before joinery. After the apron joints are fitted, taper only the two inside faces, beginning 1 in below the apron bottom and ending at a 5/8-in-square foot. Confirm the taper jig or supported hand-tool method with the instructor.
 
-### C1: tabletop and both side aprons
+## Top glue-up and revised base
 
-![Complete C1 allocation for the tabletop and both side aprons](images/top-cutting-example.svg)
+![Top glue-up from three strips and the four-apron base viewed from above](images/drawer-free-top-and-base.svg)
 
-The earlier top-only diagram left 30 5/8 in unassigned. Here it supplies two 14-in apron sections, two additional 1/8-in kerfs, and a 2 3/8-in remainder. The full length check is `2 + (3 x 21) + (2 x 14) + (5 x 1/8) + 2 3/8 = 96`.
+The two top cleats lie inside the side aprons. Fit their ends and the source's 3/16 x 3/16-in corner notches to the assembled base. Install them flush with, or just below, the apron tops. Drill and elongate the attachment holes to permit movement **across the tabletop grain**. The source uses #8 x 1-in screws; confirm actual penetration and hole positions with the instructor before fastening the top.
 
-The top pieces use rough widths of 6 3/4 in within the 8-in board. The other 1 1/4 in covers the rip kerf, edge cleanup, and edge waste; it is not a guaranteed reusable strip. Apron sections similarly reserve a 5 1/2-in rough width within the 8-in board. A1 and A2 are the **left and right side aprons**; each finishes at 3/4 x 5 x 12 1/2 in, including its end tenons.
+## Jointing and planing at the shop
 
-### C2: rear apron, drawer front, rails, guides, and spacers
+The class machines are part of this plan. Their setup and minimum workpiece sizes determine when to release the small parts.
 
-![Complete C2 allocation including the 31-inch parent for all small cherry components](images/remaining-cherry-cutting.svg)
+1. **Measure and mark first.** Bring a tape/rule, calipers, straightedge, square and pencil. Record dimensions and defects, orient the top grain, mark the two board layouts and identify the outside leg faces. Keep the full length of each leg blank.
+2. **Choose manageable parent pieces.** Have the instructor approve initial breakdown and minimum safe machine lengths. Keep the apron groups longer and full width through milling where needed; do not crosscut all the 13-in reservations into separate pieces first. Keep each cleat attached to its wider parent until the relevant face/thickness work is done.
+3. **Establish reference surfaces.** Joint one face flat and an edge straight/square to it, using the shop's guards and push blocks. Plane the opposite face parallel, leaving the top enough material for its later panel cleanup. Mill matching apron stock to one consistent thickness. The instructor may adjust the order of face, edge and thickness work for the stock.
+4. **Bring widths and lengths down in stages.** Rip with the reference edge against the fence, leaving the edge-cleanup allowance shown. Joint or securely hand-plane to final width. Use approved narrow-rip workholding for the cleats. Square and trim ends last, retaining all tenon length in the aprons. Legs finish at 1 1/8 in square and 26 3/4 in long before their final layout/tapers.
+5. **Fit the joinery and dry-assemble.** Use shop-safe poplar test stock at the same thickness; confirm mortises before fitting tenons. Dry-fit the complete four-apron base before glue-up. Check diagonals, twist, leg orientation and 3/16-in apron setbacks. Dry-clamp the top to check mating edges and flatness before gluing it.
 
-The full length check is `2 + 14 + 14 + 31 + (3 x 1/8) + 10 5/8 = 72`. A3 is the **rear apron**. There is no front apron: the two narrow front rails frame the drawer opening. Reserve the attractive DF section before assigning the other parts.
+**Stopping point for the next class:** measured inventory, reference faces marked, every part reserved, and instructor agreement on the four-apron front, milling order and top attachment. Keep final dimensions and joinery uncut until those checks pass. If the layout consumes all usable stock, obtain a separate shop-safe test piece rather than relying on a short end reserve.
 
-Keep the 31-in parent intact while flattening and thicknessing when the shop requires it. Its width allocation is `1/4 + 1 + 1/8 + 1 1/4 + 1/8 + 1 1/4 + 1/8 + 3 + 1/8 + 1/2 + 1/4 = 8`. These are **rough reservation widths**. Confirm whether the saw, guards, push blocks, support, and shop minimum workpiece sizes allow the intended sequence. Have the instructor demonstrate the narrow rips and spacer preparation; supported hand-tool methods are an alternative.
+## Actual inventory worksheet
 
-The SP reservation supplies **both** final 3/16 x 3/4 x 11 3/4-in spacers. It is a 3 x 16-in parent held at stock thickness, not an instruction to put loose thin strips through a planer. The 10 5/8-in remainder is a material reserve, not necessarily long enough for a machine test: leave it attached, rearrange allocations, or select additional longer test stock to meet shop minimums.
+Reported purchase sizes above are separate from the blank measurement record below. Fill this in at the shop; dimension order is thickness x width x length.
 
-### LEG: the four legs
+| Piece | Measured T x W x L (in) | Usable size after checks | Reference face or edge | Defects and notes |
+|---|---|---|---|---|
+| Poplar board 1 |  |  |  |  |
+| Poplar board 2 |  |  |  |  |
+| Leg 1 |  |  |  |  |
+| Leg 2 |  |  |  |  |
+| Leg 3 |  |  |  |  |
+| Leg 4 |  |  |  |  |
+| Square-stock remainder |  |  |  |  |
 
-![Four leg reservations and the end-grain template check](images/leg-cutting-example.svg)
+## How much wood
 
-The length check is `1 + 29 + 1/8 + 7/8 + 1 = 32`. The broad-face width check is `2 x 1/4 + 4 x 1 3/4 + 4 x 1/8 = 8`. Each proposed lane must actually contain a 1 3/8-in-square blank, with suitable grain and extraction allowance, along the full 29-in length.
+The current material plan assigns **4 legs, 3 top strips forming one top, 4 aprons and 2 top cleats**. No required piece is assigned twice. Test-stock adequacy still depends on the measured remainder and shop minimums. The original article's approximately 12-board-foot estimate was for its cherry table with a drawer; it is not the tally for this revised purchase. Use the actual measured boards and dealer invoice for that tally.
 
-**This yield depends on grain.** The diagram assumes the template fits within each lane and the measured thickness. If rotating it to align the growth rings makes it protrude, choose wider/thicker stock or a different layout. Four rectangles on a face do not prove four good legs. An optional fifth leg requires extra confirmed stock. Label outside faces; only the two inside faces are tapered after the joinery is fitted. Angled extraction and tapering require the instructor's setup and workholding.
+## Sources and earlier examples
 
-### Alternative: square cherry stock for the legs
+Christopher Schwarz, "Simple Shaker End Table," *Woodworking Magazine*, Autumn 2004, pages 16-21. [Publisher's original PDF](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf): article cut list on PDF page 3, drawing on page 4, assembly and top attachment on pages 5-6. David Thiel's panel-glue-up companion is on PDF pages 7-8.
 
-This replaces the wide **LEG** board in the worked example. Cherry boards C1 and C2 and poplar board P1 still supply all the other parts exactly as drawn above and below. This is a proposed purchase option; supplier availability, actual dimensions, drying condition, straightness, and grain must be checked before buying.
-
-**Required yield:** four finished legs, each **1 1/8 x 1 1/8 x 26 3/4 in**, in thickness x width x length order. Our proposed rough reserve remains **1 3/8 x 1 3/8 x 29 in** per leg. The larger purchased square sizes below are examples, not a claim that a dealer stocks them. Already flat, square stock may need different allowances; confirm its usable size with the instructor.
-
-| Choose one purchase form | Example actual thickness x width x length (in) | Yield and allowances |
-|---|---|---|
-| Two long solid cherry square sticks | 1 1/2 x 1 1/2 x 72 each | Each supplies two 29-in rough legs, two 1/8-in kerfs, two 1-in end reserves, and an 11 3/4-in remainder |
-| Four individual solid cherry leg blanks | 1 1/2 x 1 1/2 x 36 each | Each supplies one 29-in rough leg, one 1/8-in kerf, two 1-in end reserves, and a 4 7/8-in remainder |
-
-![Alternative cutting layout: two square cherry sticks supply all four legs](images/leg-square-stock-example.svg)
-
-**Choose either the two sticks or the four blanks, not both.** Neither option needs the wide LEG board. Each has 2.25 board feet of actual square-stock volume in this example; with C1, C2, and P1, the complete square-stock example totals about **15.08 actual board feet**. Dealers may price squares by the piece or length and may tally nominal sizes. Compare the actual purchase price rather than assuming that lower volume means lower cost.
-
-Inspect grain along all four faces and the full intended 29-in region. Prefer clear, straight grain, with growth rings running roughly corner to corner at the ends. A square cross-section alone does not guarantee suitable leg grain. At the example 1 1/2-in size, there is little room to rotate a 1 3/8-in rough blank to correct unsuitable grain; select different stock if necessary. Confirm whether the offered stock is solid rather than glued from smaller pieces, to preserve the article's solid-cherry baseline.
-
-Mill the squares to the chosen rough reserve and then to **1 1/8 in square**, allowing for any movement or cleanup that the actual stock needs. The mortises, rail joints, overall leg length, inside-face tapers, finished table height and base dimensions retain the article baselines. This changes the source of the leg wood, not the design. Confirm supported workholding and machine minimums with the instructor. Keep square-stock practice material at a safe working length; leave reserves attached or obtain longer stock if required. An optional spare leg requires additional confirmed stock.
-
-### P1: the dovetailed drawer and its bottom
-
-![Poplar source layout for both drawer sides, back, and two bottom strips](images/drawer-cutting-example.svg)
-
-The length check is `2 + (5 x 14) + (5 x 1/8) + 11 3/8 = 84`. The 4-in side/back reservations and 7 1/4-in bottom-strip reservations include width for later trimming. Keep each part's grain along its 14-in section. Turn the glued bottom panel so its grain spans the drawer from left to right.
-
-**Hand-cut dovetails are selected as of 2026-09-24.** The drawer front is cherry from C2; its sides, back, and bottom are poplar from P1. The 3/4-in front and 1/2-in secondary-stock thicknesses remain planning targets based on the article. The drawer back rough width is now 4 in, increased from 3 1/2 in to preserve the instructor's choice of back height and bottom arrangement.
-
-Before final drawer cuts, confirm front dovetail style, rear joints, socket depth, groove position, bottom-edge treatment, and how the bottom can move and pass the back. Measure the assembled opening after guides and top are installed: width at top and bottom, height at both sides and center, and usable depth. **Fit front, sides, back, and bottom to those measurements; do not transfer the rabbeted drawer's lengths to the dovetailed version.**
-
-### Allocation completeness
-
-All required wooden parts have a source: 4 legs, 1 top from 3 strips, 3 aprons, 2 rails, 4 guides, 2 spacers, 1 drawer front, 2 drawer sides, 1 back, and 1 bottom from 2 strips. TEST-C and TEST-P are dedicated reserves, subject to shop-safe dimensions; no offcut is counted twice. A purchased cherry knob (article baseline about 7/8-in diameter, 3/8-in mounting tenon), #8 x 1-in top screws, and an optional scrap drawer stop are separate items to confirm.
-
-These illustrations show **material allocations**, not an approved sequence of saw operations. Actual boards, defects, grain, blade kerfs, milling loss, and shop minimums determine the final layout.
-
-## Finished parts from the article
-
-Dimensions are **thickness x width x length, in inches**, checked against the cut list on [PDF page 3](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf#page=3) and the [dimensioned drawing](images/dimensioned-plan.png). These remain article baselines until verified against the workpieces. The [project guide](PROJECT_BASE.md#article-cut-list) contains the associated construction notes.
-
-**Our dovetailed drawer must be fitted to the opening. The four drawer rows below document the source's rabbeted option only.**
-
-| IDs | Qty. | Part | Finished size | Wood |
-|---|---:|---|---|---|
-| L1-L4 | 4 | Legs, before tapering | 1 1/8 x 1 1/8 x 26 3/4 | Cherry |
-| T1-T3 combined | 1 | Top | 3/4 x 18 x 18 | Cherry |
-| A1-A3 | 3 | Aprons | 3/4 x 5 x 12 1/2 | Cherry |
-| R1-R2 | 2 | Front rails | 3/4 x 3/4 x 13 1/4 | Cherry |
-| G1-G4 | 4 | Drawer guides | 3/4 x 1 x 12 1/8 | Cherry |
-| SP1-SP2 | 2 | Spacers | 3/16 x 3/4 x 11 3/4 | Cherry |
-| DF | 1 | Drawer front | 3/4 x 3 1/2 x 11 3/4 | Cherry |
-| DS1-DS2 | 2 | Drawer sides | 1/2 x 3 1/2 x 12 1/4 | Poplar |
-| DB | 1 | Drawer back | 1/2 x 3 x 11 3/4 | Poplar |
-| DP | 1 | Drawer bottom | 1/2 x 11 1/4 x 12 3/8 | Poplar |
-
-**Joint lengths are already included.** The 12 1/2-in apron has two 3/8-in tenons, leaving 11 3/4 in between shoulders. The 13 1/4-in rail has two 3/4-in end joints, also leaving 11 3/4 in between shoulders. Do not add another pair of tenons to either listed length. Fit tenon thickness to the actual mortises, and confirm shoulder positions against the dry-fitted base.
-
-**The four drawer rows above are archival rabbeted-drawer references, not cutting targets for our selected dovetailed drawer.** The 1/2-in bottom has rabbeted edges that fit the 1/4 x 1/4-in grooves; its whole thickness does not fit inside a 1/4-in groove. The narrower back permits the bottom to slide beneath it in the illustrated construction. Confirm these details on [PDF pages 10-11](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf#page=10). Our selected hand-cut dovetails require a revised drawer layout fitted to the actual opening before final sizing.
-
-## Actual board inventory and allocation
-
-Give **every physical board its own ID**; add rows for additional boards. Measure thickness at several points and record the narrowest usable width. Mark defects on both faces and edges, measuring their positions from one labeled end. Store future board photographs in `progress/` at the workspace root and write the photo reference alongside the board ID.
-
-Dimensions in this inventory are **actual thickness x width x length, in inches**. Do not enter a nominal label in place of a measurement.
-
-| Board ID | Species / purchase category | Actual T x W x L | End loss, edge loss, and defects with locations | Grain, color, and preferred face | Assigned part IDs / photo reference |
-|---|---|---|---|---|---|
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-
-Also record the actual rip, crosscut, and any resaw kerfs; edge-jointing allowance; surfacing allowance; shop minimum workpiece sizes; and which stock is reserved for tests. Different blades may remove different amounts.
-
-For each board, the final diagram should show the board ID, measured outline, grain arrow, defects, rough-blank IDs and dimensions, every kerf, and remaining stock. Check length, width, **and thickness**; a layout that fits on the broad face may still fail after flattening or leg-grain selection. Do not rotate a long-grain part across the board's grain just to make it fit.
-
-## First stock-layout session
-
-**Bring:** tape or rule, calipers, square, straightedge, pencil/chalk, labels, and a 1 3/8-in-square cardboard leg template. Use the shop's moisture-checking method and acclimation guidance. For later milling, confirm the available jointer/planer or hand planes, supported breakdown saw setup, push blocks, clamps, and sleds or carriers with the instructor.
-
-1. Inventory the boards and mark unusable regions before drawing any part outlines.
-2. Mark the four leg locations and their intended outside faces. Check that the template fits at the chosen angle through usable stock along the full proposed 29-in rough length.
-3. Arrange and label the top pieces, reserve the drawer front, and map the remaining rough blanks and test stock.
-4. Check every reservation with the instructor, including machine minimums. Long/wide parent pieces may need to remain intact until small rails, guides, and spacers are ready to separate. Angled leg extraction, narrow rips, resawing, and taper setups need instructor demonstration or approval with suitable workholding.
-5. After milling, record actual thicknesses and leg sizes in the [measurement record](PROJECT_BASE.md#measurement-record). Before any assembly glue-up, complete a dry fit and check square, twist, reveals, and drawer clearance as applicable. Dry-clamp the top too, checking its seams and flatness.
-
-**Stopping point:** a labeled, measured board layout with the top, drawer front, legs, and test stock reserved. If rough milling is completed in the same class, leave later-dependent parts oversized. Hand-cut dovetails are selected; do not finalize their layout, bottom detail, or drawer dimensions until confirmed with the instructor and measured from the assembled opening; measure opening width at top and bottom, height at both sides and center, and usable depth after the guides and top are installed.
-
-## Source and decisions
-
-Based on Christopher Schwarz, "Simple Shaker End Table," *Woodworking Magazine*, Autumn 2004, printed pages 16-21, and David Thiel's companion articles on panels and rabbeted drawers. [Original publisher PDF](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf). The complete layouts, square-stock alternative, and rough allowances are project planning aids, not illustrations or dimensions claimed to come from the article. See [attribution](ATTRIBUTION.md) and [current decisions](PROJECT_BASE.md#current-decisions).
+The source establishes the original design dimensions. The purchased-stock layouts and four-apron adaptation are project planning drawings dated 2026-10-08. The [earlier cherry, drawer and square-stock purchase examples](CUTTING_DIAGRAM_2026-09-24.md) are retained for comparison and do not describe the current build. Printed handouts are supplied separately and are not hosted on this website.

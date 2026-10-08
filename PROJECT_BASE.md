@@ -15,13 +15,15 @@ This is the working reference for the woodworking class project. It summarizes t
 - Main article in the local PDF: pages 1-6
 - Companion sections: panel glue-up on PDF pages 7-8, rabbeted drawers on pages 9-12, and brushing lacquer on pages 15-16
 
+**Current build, 2026-10-08:** poplar throughout, purchased square-stock legs, and **no drawer**. The proposed drawer-free base uses four matching aprons and two top-attachment cleats; confirm its front mortise layout with the instructor. The [current cutting plan](CUTTING_DIAGRAM.md) fits these parts to the reported purchase and includes jointing and planing. Source photos and the original cut list below show the earlier cherry table with a drawer.
+
 The text below is a workshop summary, not a transcription. Verify critical dimensions against the dimensioned drawing and class instructions before cutting.
 
 ![Finished Shaker end table from the source article](images/finished-table.png)
 
-## Design baseline
+## Original article design baseline
 
-The table has a light Shaker profile: a square top with a wide underside bevel, slender tapered legs, narrow reveals, and one drawer. The article estimates about 12 board feet of wood, but the actual purchase should allow for leg-grain selection, top matching, defects, and test pieces.
+The original table has a light Shaker profile: a square top with a wide underside bevel, slender tapered legs, narrow reveals, and one drawer. The article estimates about 12 board feet of wood, but the actual purchase should allow for leg-grain selection, top matching, defects, and test pieces.
 
 | Item | Article baseline |
 |---|---:|
@@ -41,7 +43,7 @@ The drawing above is the exact source illustration. Open [page 4 of the original
 
 ## Article cut list
 
-Dimensions are **thickness x width x length**. These are finished sizes from the article, not rough-stock sizes.
+Dimensions are **thickness x width x length**. These are archival finished sizes from the article. **For our current build, use four aprons, two upper guides as top cleats, and no rails, spacers or drawer parts; all wood is poplar.** The current rough and finished cut list is in the [purchased-stock plan](CUTTING_DIAGRAM.md#rough-blanks-and-finished-parts).
 
 ### Table
 
@@ -63,17 +65,19 @@ Dimensions are **thickness x width x length**. These are finished sizes from the
 | 1 | Back | 1/2 x 3 x 11 3/4 | Poplar | 1/4 x 1/2 in rabbet at the ends |
 | 1 | Bottom | 1/2 x 11 1/4 x 12 3/8 | Poplar | Fits a 1/4 x 1/4 in groove |
 
-The article's drawer dimensions assume the rabbeted construction described later in the PDF. Hand-cut dovetails were selected on 2026-09-24. The drawer rows above are retained as archival rabbeted-drawer references, not final cutting targets for this build. Confirm the dovetail layout and bottom detail, then fit all drawer dimensions to the assembled opening; the current oversized stock reservations are in the lumber plan.
+The drawer rows above describe the article's rabbeted option. The hand-cut dovetail choice recorded on 2026-09-24 was superseded on 2026-10-08 when the owner omitted the drawer. None of these drawer parts is required for the current build.
 
-## Build sequence
+## Current build sequence
 
 ### 1. Select and mill stock
 
-Reserve the best appearance boards for the top and drawer front, then the aprons. The article emphasizes straight leg grain with growth rings running approximately corner to corner on the end grain. This produces similar-looking figure on all four faces.
+Reserve the best appearance sections of the purchased poplar for the top, then the four aprons. Keep the two top cleats within the apron parent stock until face and thickness milling is complete. The article emphasizes straight leg grain with growth rings running approximately corner to corner on the end grain. This produces similar-looking figure on all four faces.
 
 ![Leg face and end-grain comparison from the source PDF](images/leg-grain-comparison.jpg)
 
-The source begins with rough 8/4 stock for the legs, uses an oversized 1 3/8-in-square template to find the best orientation, then rips and mills each blank to 1 1/8 in square.
+Our four purchased poplar leg blanks are reported as 1 1/2 in square x 30 in long. Keep the full length during initial preparation; joint and plane to 1 1/8 in square, then trim to 26 3/4 in. The source photo below shows its alternative extraction from wider 8/4 stock. Its 1 3/8-in template is an oversized grain-selection aid, not our final leg size.
+
+The class shop has jointing and planing machines. Establish a flat reference face and a straight edge, then plane the opposite face parallel. Keep short/narrow parts in shop-safe parent stock while milling. Verify that the measured flat boards can finish at 3/4 in, with allowance for top-panel cleanup. See the [milling sequence](CUTTING_DIAGRAM.md#jointing-and-planing-at-the-shop).
 
 ![Selecting and roughing out leg stock](images/leg-stock-preparation.jpg)
 
@@ -87,25 +91,21 @@ Arrange boards for a visually continuous surface, especially at the seams. Joint
 
 ### 3. Cut apron mortises and tenons
 
-The article centers 3/8-in-wide mortises on the top ends of the legs and leaves them open at the top. The front legs receive an apron mortise on one face; the rear legs receive them on two faces. Matching apron tenons are 3/8 in long. The source uses a router table and a 3/8-in straight bit for both operations.
+The article centers 3/8-in-wide mortises on the top ends of the legs and leaves them open at the top. For our proposed four-apron base, **all four legs receive apron mortises on two adjacent inside faces**. This repeats the source rear-corner arrangement at the front. Matching apron tenons are 3/8 in long. The source uses a router table and a 3/8-in straight bit for both operations.
 
 ![Router-table and hand-cut joinery details from the source PDF](images/apron-and-rail-joinery.jpg)
 
 Use test stock milled to the same thickness as the real parts. Fit should be snug by hand without forcing the fragile short grain at the open mortise.
 
-### 4. Join the front rails
+### 4. Fit the new front apron
 
-The lower front rail uses a 3/8-in-thick x 5/8-in-wide x 3/4-in-long tenon into a 3/4-in-deep mortise in each front leg. Its mortise wall begins 1/4 in behind the front edge of the leg.
+The new front apron matches the side and rear aprons: 3/4 x 5 x 12 1/2 in, including two 3/8-in-long tenons. Its shoulder-to-shoulder length is 11 3/4 in. The front legs require the matching apron mortises instead of the original rail joints. Confirm the adjacent mortise layout, tenon fit and 3/16-in setback with the instructor.
 
-The upper front rail uses an approximately 3/4-in-long hand-cut dovetail at each end. The article suggests an angle around 8 degrees and relies on the rail's shoulders to hide small fitting corrections. Dry-assemble the base, transfer each tail directly to its leg, and cut the sockets from those marks.
-
-![Four-step upper-front-rail dovetail sequence](images/upper-rail-dovetail.jpg)
-
-**Checkpoint:** Keep each joint paired and labeled. Do not interchange left/right rails or legs after fitting.
+**Checkpoint:** Dry-assemble all four aprons and legs, keeping joints paired and labeled. The original upper-rail dovetails and lower-rail tenons are omitted. Their earlier illustrations remain in the terminology reference and [archived cutting examples](CUTTING_DIAGRAM_2026-09-24.md).
 
 ### 5. Taper the legs
 
-The taper begins 1 in below the bottom edge of the front rail/aprons and ends at a 5/8-in-square foot. Taper only the two inside faces of each leg. The article bandsaws or jigsaws near the line, then cleans the surface with a hand plane or jointer.
+The taper begins 1 in below the bottom edge of the aprons and ends at a 5/8-in-square foot. Taper only the two inside faces of each leg. The article bandsaws or jigsaws near the line, then cleans the surface with a hand plane or jointer.
 
 ![Laying out, sawing, and refining the leg tapers](images/leg-tapering.jpg)
 
@@ -113,13 +113,15 @@ The taper begins 1 in below the bottom edge of the front rail/aprons and ends at
 
 ### 6. Prepare surfaces, dry-fit, and glue the base
 
-Plane or sand the base parts before assembly; the article recommends sanding from #100 through #180 or #220. Dry-fit the full base, check both diagonals, inspect for twist, and verify rail and apron reveals. Glue the two side assemblies first, recheck the upper-rail dovetails, then complete the base glue-up.
+Plane or sand the base parts before assembly; the article recommends sanding from #100 through #180 or #220. Dry-fit the full base, check both diagonals, inspect for twist, and verify apron setbacks. Glue the two side assemblies first, then join them with the front and rear aprons using the instructor-approved sequence. Recheck square and twist before the glue sets.
 
-### 7. Install drawer guides and top attachment points
+### 7. Install the two top cleats
 
-Notch all four guides 3/16 x 3/16 in around the legs. Glue the lower guides flush with the lower front rail so the drawer has a continuous running surface. Drill and elongate countersunk holes in the upper guides before gluing them flush with, or slightly below, the apron tops. Those holes attach the top while allowing seasonal movement.
+Retain only the source's two upper guides, now called top cleats, each 3/4 x 1 x 12 1/8 in. Fit their ends and 3/16 x 3/16-in corner notches to the assembled base. Drill and elongate countersunk holes across the tabletop grain before attaching the cleats inside the side aprons, flush with or slightly below their tops. Confirm the positions with the instructor. These holes let the solid top move seasonally.
 
-![Drawer-guide notch and elongated top-attachment hole](images/drawer-guides-and-top-attachment.jpg)
+![Source guide notch and elongated top-attachment hole, reused for our two top cleats](images/drawer-guides-and-top-attachment.jpg)
+
+The source photo includes drawer construction; our lower guides and spacers are omitted.
 
 ### 8. Shape and attach the top
 
@@ -127,13 +129,9 @@ Bring the panel to 18 x 18 x 3/4 in. The article's underside bevel is 2 in wide 
 
 **Checkpoint:** Center the base under the top, verify an even overhang, and do not overtighten the screws.
 
-### 9. Build and fit the drawer
+### 9. Finish the poplar
 
-Use the selected hand-cut dovetails; confirm the front/rear joint layout and bottom detail with the instructor before cutting joinery. The original table shown in the article has a hand-dovetailed drawer; PDF pages 9-12 document the simpler rabbeted option used by the cut list. Build the drawer after the top is attached, then plane the drawer to a smooth running fit and establish an even reveal around the front. Add a removable stop at the back if desired.
-
-### 10. Finish
-
-Break sharp edges lightly with #120-grit paper. The article uses boiled linseed oil to deepen cherry color, followed by a satin lacquer film finish. The local PDF's lacquer companion appears on pages 15-16. Confirm the class finish schedule, cure times, ventilation, and oily-rag handling rules before beginning.
+Break sharp edges lightly with #120-grit paper. Test the intended finish on a poplar offcut from this purchase. The article uses boiled linseed oil and satin lacquer on cherry; that is historical context, not an adopted finish for our poplar table. Confirm the class finish schedule, cure times, ventilation and rag-handling rules before beginning.
 
 ## Current decisions
 
@@ -141,23 +139,33 @@ Update this table whenever the class or project owner settles a choice.
 
 | Decision | Current position | Status | Last updated |
 |---|---|---|---|
-| Visible wood | Cherry, following the article | Baseline; confirm availability | 2026-09-20 |
-| Drawer secondary wood | Poplar | Baseline; confirm availability | 2026-09-20 |
-| Drawer joinery | Hand-cut dovetails | Selected by project owner; instructor to confirm detailed layout and bottom arrangement | 2026-09-24 |
-| Base joinery | Article's simplified mortise-and-tenon plus upper-rail dovetails | Baseline; confirm class method | 2026-09-20 |
+| Wood throughout | Poplar for the entire table, including the legs | Confirmed by project owner; replaces cherry and the primary/secondary wood split | 2026-10-08 |
+| Drawer | Omitted to simplify the build | Owner decision; supersedes the 2026-09-24 hand-cut dovetail choice and all drawer stock reservations | 2026-10-08 |
+| Base joinery | Four matching aprons with the source rear-corner mortise-and-tenon joint; new front apron 3/4 x 5 x 12 1/2 in | Proposed adaptation for instructor review; affects both front legs' mortises and removes the two rails and their joints | 2026-10-08 |
+| Internal supports | Two 3/4 x 1 x 12 1/8-in upper guides retained as top cleats | Confirm fit, notches and slotted top-screw holes; lower guides and spacers omitted | 2026-10-08 |
+| Finished dimensions | Top 3/4 x 18 x 18 in; legs 1 1/8 square x 26 3/4 in; base about 14 x 14 in; height about 27 1/2 in | Article targets retained; verify milling yield and assembled fit | 2026-10-08 |
 | Top bevel method | Table saw or hand-shaped | Open - choose with instructor | 2026-09-20 |
-| Finish | Boiled linseed oil plus satin lacquer | Baseline; confirm class finish rules | 2026-09-20 |
-| Knob | Cherry Shaker-style knob, approximately 7/8 in, 3/8-in tenon | Baseline | 2026-09-20 |
-| Cutting-diagram format | Separate purchase stock, proposed rough blanks, and article finished parts in [the lumber plan](CUTTING_DIAGRAM.md) | Planning page added; actual board inventory pending | 2026-09-23 |
-| Leg-stock purchase alternatives | Suitable solid cherry square stock or individual leg blanks may replace the wide 8/4 LEG board; finished legs stay 1 1/8 x 1 1/8 x 26 3/4 in | Alternative requested; supplier availability, grain, actual sizes and class milling allowances unconfirmed | 2026-09-24 |
-| Rough allowances and complete stock layout | Four hypothetical source-board layouts cover all parts and test reserves; three-piece top retained | Proposal only; check actual boards, grain, milling loss, and class requirements | 2026-09-24 |
-| Drawer rough stock after dovetail choice | Back blank increased to 4 x 14 in; bottom uses two 7 1/4 x 14-in strips for a roughly 14 x 14-in panel | Larger rough reserves preserve joint/bottom choices; affects drawer back, bottom, grooves and fit; finished sizes to be measured | 2026-09-24 |
-| Printed class handouts | Two main two-page PDFs plus a separate square-stock cutting alternative; blank inventory and source joinery cutaway | Local print material only; excluded from website | 2026-09-24 |
-| Drawer stock preparation | Prefer usable surfaced 1/2-in poplar or plane thicker stock; resawing remains optional | Recommendation; instructor and stock confirmation pending | 2026-09-23 |
+| Finish | Test on purchased poplar before selecting the class schedule | Open; article's cherry oil/lacquer treatment is no longer the assumed finish | 2026-10-08 |
+| Knob | Not required | Drawer omitted | 2026-10-08 |
+| Flat-stock purchase | One poplar 10-ft board, recalled as 1x8, dealer-cut into two approximately 60-in boards | Purchased; actual thickness, width, usable length and defects unmeasured | 2026-10-08 |
+| Leg-stock purchase | One reported 1 1/2 x 1 1/2 x 168-in poplar stick; dealer-cut into four 30-in blanks plus a remainder | Purchased; keep 30-in lengths during preparation; remainder is 48 in before saw loss, not a measured value | 2026-10-08 |
+| Rough allowances and layout | Top strips 6 3/4 x 19; four aprons 5 1/2 x 13; two cleats 1 1/4 x 13 (rough width x length, in) | Revised for the shorter purchased boards; finished targets unchanged. Board 2 needs at least 59 1/2 in and clear usable width 6 7/8 in with stated kerfs/end reserves | 2026-10-08 |
+| Jointing and planing | Class machines available; joint reference surfaces and plane to size, retaining safe parent lengths and widths | Owner confirmed machine access; instructor controls sequence, workholding, machine minimums and allowances | 2026-10-08 |
+| Printed cutting handout | Current square-stock PDF replaced with a three-page purchased-poplar/no-drawer plan; whole-table cutaway, both board layouts, legs, top glue-up/base diagram and blank actual-measurement cells included | Local print material only; excluded from website. Older terms and hypothetical cutting PDFs remain earlier references | 2026-10-08 |
+
+## Purchased stock reported on 2026-10-08
+
+The owner confirmed **poplar throughout** and **no drawer**. The flat stock is recalled as nominal 1x8, dealer-cut from one 10-ft board into two approximately 60-in pieces. Actual thickness, width and usable length still need measuring. The [current layout](CUTTING_DIAGRAM.md) allocates the top, four aprons and two top cleats to those two boards. Earlier hypothetical cherry/drawer layouts are archived and do not apply to this purchase.
+
+The square stock was reported as 1 1/2 x 1 1/2 x 168 in before dealer cutting. The four resulting leg blanks were reported as 30 in long. Keep them at that length during inspection and early preparation. The finished article target is 1 1/8 x 1 1/8 x 26 3/4 in, leaving 3 1/4 in of total length for final trimming and saw loss. Do not apply the old layout's two 1-in end reserves around a 29-in rough blank; that would require more than 30 in.
+
+The square-stock remainder is 48 in **before** dealer kerfs and any end trimming; its usable length is unmeasured. Likewise, two halves of a nominal 120-in board may each be slightly under 60 in because the dealer cut removes wood. Measure every actual piece and mark defects before assigning parts.
+
+![Four purchased 30-inch square leg blanks and their finished target](images/purchased-leg-blanks-2026-10-08.svg)
 
 ## Measurement record
 
-Record actual values here once parts are milled and the base is dry-fitted. Later parts, especially the drawer, should be fitted to these measurements.
+Record actual values here once parts are milled and the base is dry-fitted. Fit the top cleats and attachment details to the assembled base; use measured stock and joint fit to confirm every dependent dimension.
 
 | Measurement | Article target | Actual | Date/notes |
 |---|---:|---:|---|
@@ -165,8 +173,8 @@ Record actual values here once parts are milled and the base is dry-fitted. Late
 | Front base width | Approximately 14 in |  |  |
 | Side base depth | Approximately 14 in |  |  |
 | Base diagonals | Equal |  |  |
-| Drawer opening width | Fit from assembly |  |  |
-| Drawer opening height | Fit from assembly |  |  |
+| Apron thickness and shoulder span | 3/4 thick; 11 3/4 between shoulders |  |  |
+| Top-cleat fit and screw penetration | Fit from assembly |  |  |
 | Top size | 18 x 18 x 3/4 in |  |  |
 | Finished height | Approximately 27 1/2 in |  |  |
 
@@ -183,4 +191,4 @@ The local PDF page number is different from the printed magazine page number.
 | 15-16 | 30-31 | Brushing lacquer |
 | 17-18 | 32 and extras | Unrelated article and magazine material |
 
-Full-resolution renders of the six main article pages are stored in the local working copy at `images/pages/` and are excluded from the public repository. All published images in this project base were extracted from the source PDF and remain credited to the original publication and photographers.
+Full-resolution renders of the six main article pages are stored in the local working copy at `images/pages/` and are excluded from the public repository. Source photographs and drawings remain credited to the original publication and photographers. The purchased-leg SVG is a project-created planning diagram.

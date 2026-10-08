@@ -5,13 +5,15 @@ title: Simple Shaker End Table
 
 An illustrated, beginner-friendly reference for building Christopher Schwarz's *Simple Shaker End Table* in a woodworking class.
 
-![Finished Shaker end table](images/finished-table.png)
+**Current build (8 October 2026): all poplar, square-stock legs, no drawer.** The revised plan uses a fourth matching front apron and two top cleats.
+
+![Original article table, shown with its drawer](images/finished-table.png)
 
 ## Project references
 
 ### [Illustrated project guide](PROJECT_BASE.md)
 
-The article cut list, dimensioned drawing, ten-stage build sequence, joinery photographs, decision log, and actual-measurement record.
+The archival article cut list and drawing, current drawer-free build sequence, joinery photographs, decision log and actual-measurement record.
 
 ### [Lumber and woodworking terminology](LUMBER_AND_WOODWORKING_TERMINOLOGY.md)
 
@@ -19,7 +21,7 @@ A plain-language guide to nominal lumber sizes, hardwood quarter sizes, board fe
 
 ### [Cutting diagram and lumber plan](CUTTING_DIAGRAM.md)
 
-What to buy, proposed rough blanks, finished dimensions, complete example layouts for cherry, legs, and dovetailed-drawer stock, a square-stock leg alternative, and a blank actual-board inventory.
+Complete layouts for the two purchased poplar boards and four 30-in square leg blanks, revised aprons and top cleats, jointing/planing allowances, and a blank measurement worksheet.
 
 ### [Original Popular Woodworking PDF](https://www.popularwoodworking.com/app/uploads/2010/10/HiRes-SEPT2004-Seg2.pdf)
 
@@ -27,17 +29,19 @@ The complete source article by Christopher Schwarz, followed by companion materi
 
 ## Project at a glance
 
-| Item | Article baseline |
+| Item | Current build |
 |---|---:|
 | Top | 18 x 18 x 3/4 in |
 | Overall height | 27 1/2 in |
 | Base footprint | 14 x 14 in |
-| Primary wood | Cherry |
-| Drawer secondary wood | Poplar |
+| Wood throughout | Poplar |
+| Drawer | Omitted |
 | Main base joint | Mortise-and-tenon |
-| Upper front rail | Hand-cut dovetails |
+| Front | Proposed matching apron with mortise-and-tenon joints |
 
-![Dimensioned Shaker end table drawing](images/dimensioned-plan.png)
+![Whole drawer-free poplar table, with a drawing cutaway revealing its supports](images/whole-poplar-table-cutaway.svg)
+
+The original drawer-version drawing remains in the [project guide](PROJECT_BASE.md).
 
 ## Attribution and shop use
 

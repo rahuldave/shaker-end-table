@@ -8,6 +8,8 @@ permalink: /terminology.html
 
 This is a beginner's reference for the Shaker end table project. It explains how lumber is named and sold, how to read the plan's measurements, and what the table and joinery terms mean.
 
+**Current build, 2026-10-08:** poplar throughout, square-stock legs and no drawer. We propose a fourth matching front apron and retain two upper guides as top cleats. The original drawer, rail and cherry examples below remain vocabulary and source-design references; use the [current purchased-stock cutting plan](CUTTING_DIAGRAM.md) for the parts to make.
+
 Keep this distinction in mind:
 
 - A **lumber size** may be a trade name or rough size rather than the board's current measured size.
@@ -399,11 +401,11 @@ The article's simple rabbeted-drawer sizes are:
 | 1 | Back | 1/2 in | 3 in | 11 3/4 in | Ends receive 1/2-in-wide x 1/4-in-deep rabbets |
 | 1 | Bottom | 1/2 in | 11 1/4 in | 12 3/8 in | Edges are rabbeted to fit a 1/4-in-wide x 1/4-in-deep groove |
 
-These are archival article baselines, not buying sizes. **We selected hand-cut dovetails on 2026-09-24**, so the rabbeted drawer dimensions above are not final cutting targets for our drawer. Confirm the dovetail and bottom details with the instructor, then fit dimensions to the assembled opening and installed top. See the complete [stock layouts](CUTTING_DIAGRAM.md#complete-example-four-source-boards-every-required-wooden-part).
+These are archival article baselines, not current cutting targets. **The drawer was omitted on 2026-10-08**, superseding the earlier dovetail choice. Our poplar table uses four aprons and two top cleats, with no front rails, spacers or drawer parts. See the [current cut list and stock layouts](CUTTING_DIAGRAM.md#rough-blanks-and-finished-parts).
 
 ### Top
 
-The horizontal surface of the table. This top is a glued-up solid-cherry panel, finished at **3/4 in thick x 18 in wide x 18 in long**. Because the square face is 18 x 18 in, either face direction can be called width; the grain direction should still be recorded.
+The horizontal surface of the table. Our top is a glued-up solid-poplar panel (cherry in the source), finished at **3/4 in thick x 18 in wide x 18 in long**. Because the square face is 18 x 18 in, either face direction can be called width; the grain direction should still be recorded.
 
 ### Leg
 
@@ -423,7 +425,7 @@ A horizontal frame member. Each front rail finishes at **3/4 in thick x 3/4 in w
 
 ### Drawer front
 
-The visible front board of the drawer. It is cherry so it matches the table.
+The visible front board of a drawer. In the source it is cherry to match the table; our drawer-free build omits it.
 
 This is an **inset drawer**: the front fits inside the opening with a narrow reveal on all four sides. An **overlay drawer** has a front that overlaps or covers part of the opening.
 
@@ -495,7 +497,7 @@ The step where the full-size part meets the smaller tenon. The shoulder closes a
 
 ### Dovetail
 
-A joint with a flared, trapezoid-like shape that mechanically resists being pulled apart. Dovetails are often used at drawer corners. On this table, one **3/4-in-long** dovetail at each end of the upper front rail fits into a socket in a front leg. The source suggests an angle of about **8°** and says the exact tail size and slope are not critical for this concealed joint.
+A joint with a flared, trapezoid-like shape that mechanically resists being pulled apart. Dovetails are often used at drawer corners. On the original table, one **3/4-in-long** dovetail at each end of the upper front rail fits into a socket in a front leg. The source suggests an angle of about **8°** and says the exact tail size and slope are not critical for this concealed joint.
 
 ### Tail
 
@@ -503,7 +505,7 @@ The flared projecting part of a dovetail joint.
 
 ### Socket
 
-The recess cut to receive the tail. In this table, the upper-rail dovetail shape is transferred directly to the legs, then the sockets are cut to those marks.
+The recess cut to receive the tail. In the original table, the upper-rail dovetail shape is transferred directly to the legs, then the sockets are cut to those marks.
 
 ![Four-step sequence for cutting the upper-rail dovetail and its socket](images/upper-rail-dovetail.jpg)
 
@@ -643,7 +645,7 @@ The source article uses this traditional term for a leg blank whose growth rings
 
 ### Grain matching
 
-Arranging parts so their color and grain work together visually. The best boards in this project are reserved for the tabletop and drawer front.
+Arranging parts so their color and grain work together visually. The best sections of our poplar boards are reserved for the tabletop. The original drawer version also reserves an attractive drawer front.
 
 ### With the grain and against the grain
 
@@ -778,4 +780,4 @@ A reliable cutting diagram cannot be based only on `12 board feet`. It must also
 - Whether thinner drawer parts will be bought at thickness or resawn
 - Extra stock for machine setup and test cuts
 
-The [cutting diagram and lumber plan](CUTTING_DIAGRAM.md) separates **what to buy**, **rough blanks to prepare**, and **finished parts in the article cut list**. It includes four clearly labeled example source-board layouts covering every table and drawer part, plus a blank worksheet for recording the actual boards. Keeping those three stages separate prevents nominal lumber names from being mistaken for final dimensions.
+The [cutting diagram and lumber plan](CUTTING_DIAGRAM.md) separates **reported purchased stock**, **rough blanks to prepare**, and **finished parts**. It shows both purchased poplar boards, all four square leg blanks, the top glue-up and the proposed four-apron base. A blank measurement worksheet and the jointing/planing sequence help turn the allocations into a shop plan. Earlier cherry-and-drawer examples are archived separately.
